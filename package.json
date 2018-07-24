@@ -1,5 +1,5 @@
 {
-  "name": "gbf-data",
+  "name": "@59naga/gbf-data",
   "description": "build granbluefantasy json files using yaml",
   "files": [
     "dist",

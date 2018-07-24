@@ -1,20 +1,20 @@
 gbf-data
 ---
 <p align="right">
-  <a href="https://www.npmjs.com/package/gbf-data">
-    <img alt="Npm version" src="https://badge.fury.io/js/gbf-data.svg">
+  <a href="https://www.npmjs.com/package/@59naga/gbf-data">
+    <img alt="Npm version" src="https://badge.fury.io/js/%4059naga%2Fgbf-data.svg">
   </a>
   <a href="https://travis-ci.org/59naga/gbf-data">
     <img alt="Build Status" src="https://travis-ci.org/59naga/gbf-data.svg?branch=master">
   </a>
 </p>
 
-`src/chars` -> [`dist/chars.json`](https://unpkg.com/gbf-data/dist/chars.json)
+`src/chars` -> [`dist/chars.json`](https://unpkg.com/@59naga/gbf-data/dist/chars.json)
 ---
 
 [gbf-teamsimulator](https://github.com/59naga/gbf-teamsimulator#readme)で使用します。
 
-`src/raid` -> [`dist/raid.json`](https://unpkg.com/gbf-data/dist/raid.json)
+`src/raid` -> [`dist/raid.json`](https://unpkg.com/@59naga/gbf-data/dist/raid.json)
 ---
 
 [gbf-raid-server][0]でtwitter検索に使用するボス名の一覧をjsonで出力し`dist`に保存しています。
