@@ -26,5 +26,6 @@
     "conventional-github-releaser": "^3.1.2"
   },
   "author": "59naga <i59naga@icloud.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "version": "0.0.0"
 }
