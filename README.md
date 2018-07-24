@@ -21,7 +21,7 @@ gbf-data
 
 用法
 ---
-[axios](https://github.com/axios/axios)を使用して[rawgit.comから直接使用するか](https://rawgit.com/59naga/gbf-raid-bosses/master/dist/gbf-raid-bosses.json)、jsonファイルをダウンロードして`require/import`してください。
+[axios](https://github.com/axios/axios)を使用してunpkg.comから直接使用するか、jsonファイルをダウンロードして`require/import`してください。
 
 ```js
 import createIoClient from 'socket.io-client';
