@@ -1,0 +1,20 @@
+- id: '3040135000'
+  char_id: '2017'
+  name: ダヌア
+  name_en: Danua
+  name_wiki: Danua (Halloween)
+  rarity: SSR
+  element: Fire
+  specialty: Dagger
+  race: Draph
+  style: Special
+- id: '3030220000'
+  char_id: '2038'
+  name: ミムルメモル＆パンプキン
+  name_en: Mimlemel and Pun-Kin
+  name_wiki: Mimlemel and Pun-Kin (Halloween)
+  rarity: SR
+  element: Earth
+  specialty: 'Harp,Melee'
+  race: Harvin
+  style: Attack

@@ -1,0 +1,20 @@
+- id: '3040175000'
+  char_id: '2026'
+  name: セレフィラ
+  name_en: Selfira
+  name_wiki: Selfira
+  rarity: SSR
+  element: Wind
+  specialty: Harp
+  race: Erune
+  style: Special
+- id: '3030244000'
+  char_id: '2025'
+  name: エルタ
+  name_en: Elta
+  name_wiki: Elta (Light)
+  rarity: SR
+  element: Light
+  specialty: Harp
+  race: Human
+  style: Special

@@ -1,0 +1,30 @@
+- id: '3040129000'
+  char_id: '2109'
+  name: ディアンサ
+  name_en: Diantha
+  name_wiki: Diantha (Summer)
+  rarity: SSR
+  element: Water
+  specialty: Harp
+  race: Human
+  style: Special
+- id: '3030201000'
+  char_id: '3043'
+  name: ガンダゴウザ
+  name_en: Ghandagoza
+  name_wiki: Ghandagoza (Summer)
+  rarity: SR
+  element: Fire
+  specialty: Melee
+  race: Draph
+  style: Attack
+- id: '3030202000'
+  char_id: '1051'
+  name: クロエ
+  name_en: Chloe
+  name_wiki: Chloe (Summer)
+  rarity: SR
+  element: Wind
+  specialty: Melee
+  race: Erune
+  style: Special

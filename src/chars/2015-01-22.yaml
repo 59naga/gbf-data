@@ -1,0 +1,30 @@
+- id: '3040040000'
+  char_id: '3036'
+  name: ジャンヌダルク
+  name_en: Jeanne d'Arc
+  name_wiki: Jeanne d'Arc
+  rarity: SSR
+  element: Light
+  specialty: Spear
+  race: Human
+  style: Balanced
+- id: '3030053000'
+  char_id: '2046'
+  name: バウタオーダ
+  name_en: Baotorda
+  name_wiki: Baotorda
+  rarity: SR
+  element: Light
+  specialty: Sabre
+  race: Draph
+  style: Defense
+- id: '3020030000'
+  char_id: '1026'
+  name: ヨダルラーハ
+  name_en: Yodarha
+  name_wiki: Yodarha
+  rarity: R
+  element: Water
+  specialty: 'Sabre,Katana'
+  race: Harvin
+  style: Balanced

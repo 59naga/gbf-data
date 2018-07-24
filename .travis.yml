@@ -1,0 +1,17 @@
+sudo: false
+language: node_js
+node_js:
+  - 10
+cache: yarn
+before_deploy:
+  - rm .gitignore
+  - yarn build
+  
+deploy:
+  provider: npm
+  email: i59naga@icloud.com
+  api_key:
+    secure: Q+kJgRWTTOPQbAlVXOdHKgav02yX+mDO1ihPedGjqnNMgIKjLi5+ZbZG4YzRWZD1a5X/xi5jb4NtDMOW/x1GsQMijvPx/9AnMGoxy2wzK6/hEifulZdnIXYYTeDfTFMWUxrL4ibm382VotxrfUG2sPrS5OoooSqtcQW2kxNFY8nApTd7RBXi9cJfadq41Bp6VU88bcMi0IgmdCJwnQ0AvRaXosLT5/H9lR13UMp1Q36zac0QX2sHMu7G1M9QCBpRK2R0zEqOaRYX4w86tzOtvMrFQKuJWsPp4r99Cu42co77aFI5TDAxuz6NKBhb6uHr3vtCVFsFhnc80THZU6HjFha3A0JHhV2okPnVYY7msnouA0fj5tCDEZqkvbRkwlU3Tr+peuv1SAMK3QgOCveSZBSdvuIp1bKvA9Zia9QtSRzmBr9R2y5ABP9d2a51zDPGfTI06jvjY9l96AmvdYTo2t7D0NKavaZz+O2+bxr8qhOvdTgiKHkrL4WqbLfskRKUKcfdyqGVNMJqYfFkZShYbP7QkiDWjACKberVdt0HanLirJp9y+ViLIAh6wxp5uA9kS1zLQoU7kEVsWLKpwf6AsArb5RTBhrozFSiH2YsCmZG+JCozXTnXrGqf9GO49XMHylk/n0unqlJ+ZEuZ2sRtEtF+s3lZ6um6ORD6HGUxRg=
+  on:
+    tags: true
+    repo: 59naga/gbf-data

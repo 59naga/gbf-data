@@ -1,0 +1,20 @@
+- id: '3040117000'
+  char_id: '2042'
+  name: ヴェイン
+  name_en: Vane
+  name_wiki: Vane (SSR)
+  rarity: SSR
+  element: Water
+  specialty: 'Spear,Axe'
+  race: Human
+  style: Defense
+- id: '3030186000'
+  char_id: '2013'
+  name: ラムレッダ
+  name_en: Lamretta
+  name_wiki: Lamretta (Water)
+  rarity: SR
+  element: Water
+  specialty: Melee
+  race: Draph
+  style: Special

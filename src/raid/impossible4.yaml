@@ -1,0 +1,24 @@
+- name: Lv120 プロメテウス
+  name_en: Lvl 120 Prometheus
+  image: 'https://pbs.twimg.com/media/CqG0anMUIAU6z7f.jpg'
+  element: Fire
+- name: Lv120 カー・オン
+  name_en: Lvl 120 Ca Ong
+  image: 'https://pbs.twimg.com/media/Cs1w3NXVMAAAiRy.jpg'
+  element: Water
+- name: Lv120 ギルガメッシュ
+  name_en: Lvl 120 Gilgamesh
+  image: 'https://pbs.twimg.com/media/CqG0X1tUkAA5B8_.jpg'
+  element: Earth
+- name: Lv120 バイヴカハ
+  name_en: Lvl 120 Morrigna
+  image: 'https://pbs.twimg.com/media/CucwemxVUAA7pWF.jpg'
+  element: Wind
+- name: Lv120 ヘクトル
+  name_en: Lvl 120 Hector
+  image: 'https://pbs.twimg.com/media/CyEeWDkUQAQ5DzW.jpg'
+  element: Light
+- name: Lv120 アヌビス
+  name_en: Lvl 120 Anubis
+  image: 'https://pbs.twimg.com/media/CzcJCMtVEAEbPjY.jpg'
+  element: Dark

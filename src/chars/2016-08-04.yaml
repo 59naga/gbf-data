@@ -1,0 +1,20 @@
+- id: '3040090000'
+  char_id: '3042'
+  name: パーシヴァル
+  name_en: Percival
+  name_wiki: Percival (Summer)
+  rarity: SSR
+  element: Fire
+  specialty: Sabre
+  race: Human
+  style: Balanced
+- id: '3030152000'
+  char_id: '1028'
+  name: クムユ
+  name_en: Camieux
+  name_wiki: Camieux (Summer)
+  rarity: SR
+  element: Water
+  specialty: Gun
+  race: Draph
+  style: Special

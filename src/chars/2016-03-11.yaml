@@ -1,0 +1,20 @@
+- id: '3030121000'
+  char_id: '2087'
+  name: 十時愛梨
+  name_en: Airi Totoki
+  name_wiki: Airi Totoki
+  rarity: SR
+  element: Earth
+  specialty: Sabre
+  race: Human
+  style: Defense
+- id: '3030120000'
+  char_id: '2086'
+  name: 輿水幸子
+  name_en: Sachiko Koshimizu
+  name_wiki: Sachiko Koshimizu
+  rarity: SR
+  element: Light
+  specialty: Axe
+  race: Human
+  style: Special

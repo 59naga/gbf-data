@@ -1,0 +1,30 @@
+- id: '3040153000'
+  char_id: '3096'
+  name: サンダルフォン
+  name_en: Sandalphon
+  name_wiki: Sandalphon (Event)
+  rarity: SSR
+  element: Light
+  specialty: 'Sabre,Katana'
+  race: Primal
+  style: Balanced
+- id: '3040152000'
+  char_id: ''
+  name: ティアマト
+  name_en: Tiamat
+  name_wiki: Tiamat
+  rarity: SSR
+  element: Wind
+  specialty: Melee
+  race: Primal
+  style: Special
+- id: '3030237000'
+  char_id: '3003'
+  name: ネツァワルピリ
+  name_en: Nezahualpilli
+  name_wiki: Nezahualpilli (SR)
+  rarity: SR
+  element: Earth
+  specialty: Spear
+  race: Human
+  style: Attack

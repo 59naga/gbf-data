@@ -1,0 +1,30 @@
+- id: '3040072000'
+  char_id: '3012'
+  name: メーテラ
+  name_en: Metera
+  name_wiki: Metera (Fire)
+  rarity: SSR
+  element: Fire
+  specialty: Bow
+  race: Erune
+  style: Attack
+- id: '3030113000'
+  char_id: '2018'
+  name: スーテラ
+  name_en: Sutera
+  name_wiki: Sutera (Fire)
+  rarity: SR
+  element: Fire
+  specialty: Bow
+  race: Erune
+  style: Defense
+- id: '3020049000'
+  char_id: '1042'
+  name: フレッセル
+  name_en: Flesselles
+  name_wiki: Flesselles
+  rarity: R
+  element: Fire
+  specialty: Bow
+  race: Erune
+  style: Balanced

@@ -1,0 +1,24 @@
+- name: Lv100 アテナ
+  name_en: Lvl 100 Athena
+  image: 'https://pbs.twimg.com/media/Cg7oAJsUkAApRif.jpg'
+  element: Fire
+- name: Lv100 グラニ
+  name_en: Lvl 100 Grani
+  image: 'https://pbs.twimg.com/media/CqwDXDkUMAAjCE5.jpg'
+  element: Water
+- name: Lv100 バアル
+  name_en: Lvl 100 Baal
+  image: 'https://pbs.twimg.com/media/CjLxgrbUgAAFbwi.jpg'
+  element: Earth
+- name: Lv100 ガルーダ
+  name_en: Lvl 100 Garuda
+  image: 'https://pbs.twimg.com/media/CkVbhuqVEAA7e6K.jpg'
+  element: Wind
+- name: Lv100 オーディン
+  name_en: Lvl 100 Odin
+  image: 'https://pbs.twimg.com/media/CqwDU_jUkAQjgKq.jpg'
+  element: Light
+- name: Lv100 リッチ
+  name_en: Lvl 100 Lich
+  image: 'https://pbs.twimg.com/media/CqwDZKwVMAAxt0Y.jpg'
+  element: Dark

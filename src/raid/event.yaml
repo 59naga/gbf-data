@@ -1,0 +1,56 @@
+- name: Lv60 青竜
+  name_en: Lvl 60 Qinglong
+  image: 'https://pbs.twimg.com/media/CYpGBIuW8AEniTh.jpg'
+  element: Wind
+- name: Lv60 朱雀
+  name_en: Lvl 60 Zhuque
+  image: 'https://pbs.twimg.com/media/CfqNV2pUAAAFTq8.jpg'
+  element: Fire
+- name: Lv60 玄武
+  name_en: Lvl 60 Xuanwu
+  image: 'https://pbs.twimg.com/media/CV1lVejVEAAmxT6.jpg'
+  element: Water
+- name: Lv60 白虎
+  name_en: Lvl 60 Baihu
+  image: 'https://pbs.twimg.com/media/Cb8So5kVAAA_a_D.jpg'
+  element: Earth
+- name: Lv90 ゼピュロス
+  name_en: Lvl 90 Zephyrus
+  image: 'https://pbs.twimg.com/media/CYpGC_4WAAAQ6IM.jpg'
+  element: Wind
+- name: Lv90 アグニス
+  name_en: Lvl 90 Agni
+  image: 'https://pbs.twimg.com/media/CfqNXEVVIAEcN0B.jpg'
+  element: Fire
+- name: Lv90 ネプチューン
+  name_en: Lvl 90 Neptune
+  image: 'https://pbs.twimg.com/media/CV1lT4ZUsAEaflM.jpg'
+  element: Water
+- name: Lv90 ティターン
+  name_en: Lvl 90 Titan
+  image: 'https://pbs.twimg.com/media/Cb8Squ1VIAAeo69.jpg'
+  element: Earth
+- name: Lv100 ゼノ・イフリート
+  name_en: Lvl 100 Xeno Ifrit
+  image: 'https://pbs.twimg.com/media/C4sbgzyWMAA3B8D.jpg'
+  element: Fire
+- name: Lv100 ゼノ・サジタリウス
+  name_en: Lvl 100 Xeno Sagittarius
+  image: 'https://pbs.twimg.com/media/DICaGf2U0AA8rJE.jpg'
+  element: Wind
+- name: Lv100 ゼノ・コキュートス
+  name_en: Lvl 100 Xeno Cocytus
+  image: 'https://pbs.twimg.com/media/DPXLRenVoAUfB1p.jpg'
+  element: Water
+- name: Lv100 ゼノ・ウォフマナフ
+  name_en: Lvl 100 Xeno Vohu Manah
+  image: 'https://pbs.twimg.com/media/C7FV6BVVoAAA8Ai.jpg'
+  element: Earth
+- name: Lv100 ゼノ・コロゥ
+  name_en: Lvl 100 Xeno Corow
+  image: 'https://pbs.twimg.com/media/DYsqZQBV4AEnG7Z.jpg'
+  element: Light
+- name: Lv100 ゼノ・ディアボロス
+  name_en: Lvl 100 Xeno Diablo
+  image: 'https://pbs.twimg.com/media/DRij9xmUMAUVH2J.jpg'
+  element: Dark

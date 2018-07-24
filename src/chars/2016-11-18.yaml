@@ -1,0 +1,20 @@
+- id: '3040102000'
+  char_id: '3069'
+  name: メリッサベル
+  name_en: Melissabelle
+  name_wiki: Melissabelle
+  rarity: SSR
+  element: Wind
+  specialty: Sabre
+  race: Harvin
+  style: Attack
+- id: '3030166000'
+  char_id: '2038'
+  name: ミムルメモル＆切り株
+  name_en: Mimlemel and Stumpeye
+  name_wiki: Mimlemel and Stumpeye
+  rarity: SR
+  element: Wind
+  specialty: Melee
+  race: Harvin
+  style: Attack

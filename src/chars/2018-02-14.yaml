@@ -1,0 +1,30 @@
+- id: '3040151000'
+  char_id: '3081'
+  name: メドゥーサ
+  name_en: Medusa
+  name_wiki: Medusa (Valentine)
+  rarity: SSR
+  element: Earth
+  specialty: Melee
+  race: Primal
+  style: Balanced
+- id: '3030236000'
+  char_id: '2031'
+  name: ティナ
+  name_en: Teena
+  name_wiki: Teena (Valentine)
+  rarity: SR
+  element: Fire
+  specialty: Staff
+  race: Human
+  style: Balanced
+- id: '3030235000'
+  char_id: '3047'
+  name: ナルメア
+  name_en: Narmaya
+  name_wiki: Narmaya (Valentine)
+  rarity: SR
+  element: Dark
+  specialty: Katana
+  race: Draph
+  style: Attack

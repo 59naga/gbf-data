@@ -1,0 +1,20 @@
+- id: '3040170000'
+  char_id: '2020'
+  name: ソリッズ
+  name_en: Soriz
+  name_wiki: Soriz (SSR)
+  rarity: SSR
+  element: Earth
+  specialty: Melee
+  race: Human
+  style: Attack
+- id: '3030241000'
+  char_id: ''
+  name: レオナ
+  name_en: Leona
+  name_wiki: Leona
+  rarity: SR
+  element: Earth
+  specialty: Spear
+  race: Human
+  style: Attack

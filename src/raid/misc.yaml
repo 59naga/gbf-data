@@ -1,0 +1,108 @@
+- name: Lv20 グリフォン
+  name_en: Lvl 20 Griffin
+  image: 'https://pbs.twimg.com/media/CT6cKZPUsAEb4aA.jpg'
+  element: Wind
+- name: Lv20 ザリチュナルフレイム
+  name_en: Lvl 20 Zarchnal Flame
+  image: 'https://pbs.twimg.com/media/CT6cTLoU8AANTDz.jpg'
+  element: Fire
+- name: Lv20 インペリアルガード
+  name_en: Lvl 20 Imperial Guard
+  image: 'https://pbs.twimg.com/media/CT6cWDUUEAArJAZ.jpg'
+  element: Water
+- name: Lv30 ティアマト
+  name_en: Lvl 30 Tiamat
+  image: 'https://pbs.twimg.com/media/CT6cLx4VAAAzePV.jpg'
+  element: Wind
+- name: Lv30 グリフォン
+  name_en: Lvl 30 Griffin
+  image: 'https://pbs.twimg.com/media/CT6cKZPUsAEb4aA.jpg'
+  element: Wind
+- name: Lv30 ザリチュナルフレイム
+  name_en: Lvl 30 Zarchnal Flame
+  image: 'https://pbs.twimg.com/media/CT6cTLoU8AANTDz.jpg'
+  element: Fire
+- name: Lv30 コロッサス
+  name_en: Lvl 30 Colossus
+  image: 'https://pbs.twimg.com/media/CT6cUf8VEAEBaEb.jpg'
+  element: Fire
+- name: Lv30 リヴァイアサン
+  name_en: Lvl 30 Leviathan
+  image: 'https://pbs.twimg.com/media/CT6cXcgUEAEc0Zl.jpg'
+  element: Water
+- name: Lv30 インペリアルガード
+  name_en: Lvl 30 Imperial Guard
+  image: 'https://pbs.twimg.com/media/CT6cWDUUEAArJAZ.jpg'
+  element: Water
+- name: Lv30 ユグドラシル
+  name_en: Lvl 30 Yggdrasil
+  image: 'https://pbs.twimg.com/media/CT6cbScU8AAgXRw.jpg'
+  element: Earth
+- name: Lv30 エンシェントドラゴン
+  name_en: Lvl 30 Ancient Dragon
+  image: 'https://pbs.twimg.com/media/CT6cZ4ZUEAATMRc.jpg'
+  element: Earth
+- name: Lv30 ウィル･オ･ウィスプ
+  name_en: Lvl 30 Will-o'-Wisp
+  image: 'https://pbs.twimg.com/media/CT6cfCEUYAEtU95.jpg'
+  element: Light
+- name: Lv30 アドウェルサ
+  name_en: Lvl 30 Adversa
+  image: 'https://pbs.twimg.com/media/CT6cgc5UYAIhJoB.jpg'
+  element: Light
+- name: Lv30 イービルアイ
+  name_en: Lvl 30 Evil Eye
+  image: 'https://pbs.twimg.com/media/CT6cjv-U8AAq_zI.jpg'
+  element: Dark
+- name: Lv30 セレスト
+  name_en: Lvl 30 Celeste
+  image: 'https://pbs.twimg.com/media/CT6cmzjUcAIvSo_.jpg'
+  element: Dark
+- name: Lv50 ティアマト
+  name_en: Lvl 50 Tiamat
+  image: 'https://pbs.twimg.com/media/CT6cLx4VAAAzePV.jpg'
+  element: Wind
+- name: Lv50 コロッサス
+  name_en: Lvl 50 Colossus
+  image: 'https://pbs.twimg.com/media/CT6cUf8VEAEBaEb.jpg'
+  element: Fire
+- name: Lv50 リヴァイアサン
+  name_en: Lvl 50 Leviathan
+  image: 'https://pbs.twimg.com/media/CT6cXcgUEAEc0Zl.jpg'
+  element: Water
+- name: Lv50 ユグドラシル
+  name_en: Lvl 50 Yggdrasil
+  image: 'https://pbs.twimg.com/media/CT6cbScU8AAgXRw.jpg'
+  element: Earth
+- name: Lv50 アドウェルサ
+  name_en: Lvl 50 Adversa
+  image: 'https://pbs.twimg.com/media/CT6cgc5UYAIhJoB.jpg'
+  element: Light
+- name: Lv50 セレスト
+  name_en: Lvl 50 Celeste
+  image: 'https://pbs.twimg.com/media/CT6cmzjUcAIvSo_.jpg'
+  element: Dark
+- name: Lv60 ティアマト
+  name_en: Lvl 60 Tiamat
+  image: 'https://pbs.twimg.com/media/DdrvEShUwAAXi6X.jpg'
+  element: Wind
+- name: Lv60 コロッサス
+  name_en: Lvl 60 Colossus
+  image: 'https://pbs.twimg.com/media/DdrvG8UVAAAO33N.jpg'
+  element: Fire
+- name: Lv60 リヴァイアサン
+  name_en: Lvl 60 Leviathan
+  image: 'https://pbs.twimg.com/media/DdrvJ2KU8AEthfi.jpg'
+  element: Water
+- name: Lv60 ユグドラシル
+  name_en: Lvl 60 Yggdrasil
+  image: 'https://pbs.twimg.com/media/DdrvPf-UQAEqqMv.jpg'
+  element: Earth
+- name: Lv60 アドウェルサ
+  name_en: Lvl 60 Adversa
+  image: 'https://pbs.twimg.com/media/DdrvSWVUwAAiYu5.jpg'
+  element: Light
+- name: Lv60 セレスト
+  name_en: Lvl 60 Celeste
+  image: 'https://pbs.twimg.com/media/DdrvUz3V0AEtbgx.jpg'
+  element: Dark

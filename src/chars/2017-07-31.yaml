@@ -1,0 +1,40 @@
+- id: '3040126000'
+  char_id: '3067'
+  name: イシュミール
+  name_en: Izmir
+  name_wiki: Izmir (Summer)
+  rarity: SSR
+  element: Water
+  specialty: Sabre
+  race: Draph
+  style: Attack
+- id: '3030199000'
+  char_id: '3060'
+  name: アイル
+  name_en: Ayer
+  name_wiki: Ayer (Summer)
+  rarity: SR
+  element: Earth
+  specialty: Melee
+  race: Human
+  style: Attack
+- id: '3030200000'
+  char_id: '2041'
+  name: カレン
+  name_en: Carren
+  name_wiki: Carren (Event)
+  rarity: SR
+  element: Fire
+  specialty: Sabre
+  race: Human
+  style: Attack
+- id: '3030198000'
+  char_id: '3010'
+  name: シャルロッテ
+  name_en: Charlotta
+  name_wiki: Charlotta (Summer)
+  rarity: SR
+  element: Water
+  specialty: Sabre
+  race: Harvin
+  style: Balanced

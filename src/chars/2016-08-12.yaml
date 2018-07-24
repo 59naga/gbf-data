@@ -1,0 +1,20 @@
+- id: '3040091000'
+  char_id: '3046'
+  name: ヘルエス
+  name_en: Heles
+  name_wiki: Heles (Summer)
+  rarity: SSR
+  element: Light
+  specialty: Spear
+  race: Erune
+  style: Balanced
+- id: '3030142000'
+  char_id: '2104'
+  name: ナーヴェ
+  name_en: Novei
+  name_wiki: Novei
+  rarity: SR
+  element: Light
+  specialty: Harp
+  race: Human
+  style: Special

@@ -1,0 +1,20 @@
+- id: '3040149000'
+  char_id: '2001'
+  name: テレーズ
+  name_en: Therese
+  name_wiki: Therese (SSR)
+  rarity: SSR
+  element: Fire
+  specialty: Sabre
+  race: Human
+  style: Attack
+- id: '3030232000'
+  char_id: '1034'
+  name: イッパツ
+  name_en: Ippatsu
+  name_wiki: Ippatsu (SR)
+  rarity: SR
+  element: Fire
+  specialty: Melee
+  race: Human
+  style: Special

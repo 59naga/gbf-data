@@ -1,0 +1,24 @@
+- name: Lv50 ティアマト・マグナ
+  name_en: Lvl 50 Tiamat Omega
+  image: 'https://pbs.twimg.com/media/CT6buTPUwAIM9VJ.jpg'
+  element: Wind
+- name: Lv70 コロッサス・マグナ
+  name_en: Lvl 70 Colossus Omega
+  image: 'https://pbs.twimg.com/media/CT6bwJTUYAA6mcV.jpg'
+  element: Fire
+- name: Lv60 リヴァイアサン・マグナ
+  name_en: Lvl 60 Leviathan Omega
+  image: 'https://pbs.twimg.com/media/CT6cBK3U8AA4xdW.jpg'
+  element: Water
+- name: Lv60 ユグドラシル・マグナ
+  name_en: Lvl 60 Yggdrasil Omega
+  image: 'https://pbs.twimg.com/media/CT6cDD3UkAEnP8Y.jpg'
+  element: Earth
+- name: Lv75 シュヴァリエ・マグナ
+  name_en: Lvl 75 Luminiera Omega
+  image: 'https://pbs.twimg.com/media/CT6cEwEUcAAlwFM.jpg'
+  element: Light
+- name: Lv75 セレスト・マグナ
+  name_en: Lvl 75 Celeste Omega
+  image: 'https://pbs.twimg.com/media/CT6cGF4UYAAHBg5.jpg'
+  element: Dark

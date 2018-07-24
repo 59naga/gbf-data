@@ -1,0 +1,30 @@
+- id: '3040134000'
+  char_id: 2050;2049
+  name: サーヴァンツ ドロシー＆クラウディア
+  name_en: Dorothy and Claudia
+  name_wiki: Dorothy and Claudia
+  rarity: SSR
+  element: Light
+  specialty: 'Gun,Melee'
+  race: Human
+  style: Special
+- id: '3030210000'
+  char_id: '2027'
+  name: エゼクレイン
+  name_en: Ezecrain
+  name_wiki: Ezecrain (Event)
+  rarity: SR
+  element: Light
+  specialty: Melee
+  race: Human
+  style: Special
+- id: '3030209000'
+  char_id: '2053'
+  name: サーヤ
+  name_en: Sarya
+  name_wiki: Sarya
+  rarity: SR
+  element: Light
+  specialty: Gun
+  race: Draph
+  style: Special

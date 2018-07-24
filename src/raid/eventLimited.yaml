@@ -1,0 +1,104 @@
+- name: Lv30 ゴシパラヤ＝ゲィル
+  name_en: Lvl 30 Battleship Jenkins
+  image: 'https://pbs.twimg.com/media/DixCYaOVMAACcGq.jpg'
+  element: Fire
+  limit:
+    - 2018-07-24,2018-07-30
+- name: Lv50 ンニ
+  name_en: Lvl 50 Sea Urkin
+  image: 'https://pbs.twimg.com/media/DixCbGjUYAE5KRl.jpg'
+  element: Fire
+  limit:
+    - 2018-07-24,2018-07-30
+- name: Lv100 サンダルフォン
+  name_en: Lvl 100 Sandalphon
+  image: ''
+  element: Light
+- name: Lv100 ベリアル
+  name_en: Lvl 100 Belial
+  image: 'https://pbs.twimg.com/media/DXPvzzUVAAACL2Y.jpg'
+  element: Dark
+- name: Lv30 時間遡行軍
+  name_en: Lvl 30 Time Retrograde Army
+  image: ''
+  element: None
+- name: Lv30 異形の司令塔
+  name_en: Lvl 30 Aberrant Tower
+  image: ''
+  element: Wind
+- name: Lv30 先史の遺像
+  name_en: Lvl 30 Elder Vestige
+  image: ''
+  element: Wind
+- name: Lv30 九尾の幻影
+  name_en: Lvl 30 Phantom Fox
+  image: 'https://pbs.twimg.com/media/DNmk7HgVAAEnV3P.jpg'
+  element: Fire
+- name: Lv30 『水』
+  name_en: Lvl 30 The Watery
+  image: ''
+  element: Water
+- name: Lv30 自律駆動ガトリング砲
+  name_en: Lvl 30 Devastation Cannon
+  image: 'https://pbs.twimg.com/media/DaTpGqGVMAAmN0Y.jpg'
+  element: Earth
+- name: Lv30 ドミニオンズ・コア
+  name_en: Lvl 30 Dominion Core
+  image: ''
+  element: Light
+- name: Lv30 覇壊機獣メカゾゴラ
+  name_en: Lvl 30 Mecha Zogora
+  image: ''
+  element: Dark
+- name: Lv30 ベリアル
+  name_en: Lvl 30 Belial
+  image: 'https://pbs.twimg.com/media/DXPvrA3VwAAs8nZ.jpg'
+  element: Dark
+- name: Lv30 魔王の鎧
+  name_en: Lvl 30 Queen's Armor
+  image: ''
+  element: Dark
+- name: Lv50 アマツマウラ
+  name_en: Lvl 50 Amatsumaula
+  image: ''
+  element: None
+- name: Lv50 ショロトル
+  name_en: Lvl 50 Xolotl
+  image: ''
+  element: Wind
+- name: Lv50 ケイオスビースト
+  name_en: Lvl 50 Chaos Beast
+  image: ''
+  element: Wind
+- name: Lv50 九尾
+  name_en: Lvl 50 Ninpress
+  image: 'https://pbs.twimg.com/media/DNmk8f1VQAAImDE.jpg'
+  element: Fire
+- name: Lv50 自律駆動ガトリング砲
+  name_en: Lvl 50 Devastation Cannon
+  image: 'https://pbs.twimg.com/media/DaTpKbuV4AY1ZVE.jpg'
+  element: Earth
+- name: Lv50 サンダルフォン
+  name_en: Lvl 50 Sandalphon
+  image: ''
+  element: Light
+- name: Lv50 『雷』
+  name_en: Lvl 50 The Thunder
+  image: ''
+  element: Light
+- name: Lv50 覇壊神ダイモン
+  name_en: Lvl 50 Lord Daimon
+  image: ''
+  element: Dark
+- name: Lv50 アバター
+  name_en: Lvl 50 Avatar
+  image: 'https://pbs.twimg.com/media/DXPvxTYU8AAHAB8.jpg'
+  element: Dark
+- name: Lv50 シャローム
+  name_en: Lvl 50 Sharom
+  image: ''
+  element: Dark
+- name: Lv60 プロスクリスィ
+  name_en: Lvl 60 Procris
+  image: ''
+  element: None

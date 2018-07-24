@@ -1,0 +1,30 @@
+- id: '3040052000'
+  char_id: '3043'
+  name: ガンダゴウザ
+  name_en: Ghandagoza
+  name_wiki: Ghandagoza
+  rarity: SSR
+  element: Fire
+  specialty: Melee
+  race: Draph
+  style: Attack
+- id: '3030083000'
+  char_id: '2023'
+  name: エルモート
+  name_en: Elmott
+  name_wiki: Elmott (Summer)
+  rarity: SR
+  element: Fire
+  specialty: Staff
+  race: Erune
+  style: Attack
+- id: '3030084000'
+  char_id: '1015'
+  name: ターニャ
+  name_en: Tanya
+  name_wiki: Tanya (Summer)
+  rarity: SR
+  element: Dark
+  specialty: Dagger
+  race: Human
+  style: Balanced

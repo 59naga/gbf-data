@@ -1,0 +1,20 @@
+- id: '3030051000'
+  char_id: '2044'
+  name: 城ヶ崎美嘉
+  name_en: Mika Jougasaki
+  name_wiki: Mika Jougasaki
+  rarity: SR
+  element: Dark
+  specialty: Dagger
+  race: Human
+  style: Special
+- id: '3030052000'
+  char_id: '2045'
+  name: 本田未央
+  name_en: Mio Honda
+  name_wiki: Mio Honda
+  rarity: SR
+  element: Fire
+  specialty: Gun
+  race: Human
+  style: Balanced

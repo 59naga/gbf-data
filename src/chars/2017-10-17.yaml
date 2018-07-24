@@ -1,0 +1,20 @@
+- id: '3040137000'
+  char_id: '3087'
+  name: アザゼル
+  name_en: Azazel
+  name_wiki: Azazel
+  rarity: SSR
+  element: Dark
+  specialty: 'Dagger,Melee'
+  race: Primal
+  style: Attack
+- id: '3030221000'
+  char_id: '3044'
+  name: ヴァンピィ
+  name_en: Vania
+  name_wiki: Vania (SR)
+  rarity: SR
+  element: Dark
+  specialty: Staff
+  race: Unknown
+  style: Special

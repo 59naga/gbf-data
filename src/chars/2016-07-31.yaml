@@ -1,0 +1,40 @@
+- id: '3040089000'
+  char_id: '3047'
+  name: ナルメア
+  name_en: Narmaya
+  name_wiki: Narmaya (Summer)
+  rarity: SSR
+  element: Water
+  specialty: Katana
+  race: Draph
+  style: Attack
+- id: '3030151000'
+  char_id: '2022'
+  name: ジン
+  name_en: Jin
+  name_wiki: Jin (Wind)
+  rarity: SR
+  element: Wind
+  specialty: Katana
+  race: Human
+  style: Balanced
+- id: '3030150000'
+  char_id: '2109'
+  name: ディアンサ
+  name_en: Diantha
+  name_wiki: Diantha
+  rarity: SR
+  element: Water
+  specialty: Harp
+  race: Human
+  style: Special
+- id: '3020061000'
+  char_id: '1043'
+  name: ルナール
+  name_en: Lunalu
+  name_wiki: Lunalu (Summer)
+  rarity: R
+  element: Dark
+  specialty: Staff
+  race: Harvin
+  style: Special

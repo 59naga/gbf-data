@@ -1,0 +1,30 @@
+- id: '3040086000'
+  char_id: '3062'
+  name: フォルテ
+  name_en: Forte
+  name_wiki: Forte
+  rarity: SSR
+  element: Dark
+  specialty: Spear
+  race: Draph
+  style: Attack
+- id: '3030139000'
+  char_id: '2102'
+  name: アルメイダ
+  name_en: Almeida
+  name_wiki: Almeida
+  rarity: SR
+  element: Earth
+  specialty: Axe
+  race: Draph
+  style: Attack
+- id: '3020058000'
+  char_id: '1050'
+  name: コワフュール
+  name_en: La Coiffe
+  name_wiki: La Coiffe
+  rarity: R
+  element: Earth
+  specialty: Sabre
+  race: Erune
+  style: Special

@@ -1,0 +1,30 @@
+- id: '3030082000'
+  char_id: '2070'
+  name: ソフィ
+  name_en: Sophie
+  name_wiki: Sophie
+  rarity: SR
+  element: Light
+  specialty: Melee
+  race: Unknown
+  style: Attack
+- id: '3030080000'
+  char_id: '2068'
+  name: ミラ＝マクスウェル
+  name_en: Milla Maxwell
+  name_wiki: Milla Maxwell
+  rarity: SR
+  element: Fire
+  specialty: Sabre
+  race: Unknown
+  style: Attack
+- id: '3030081000'
+  char_id: '2069'
+  name: ユーリ・ローウェル
+  name_en: Yuri Lowell
+  name_wiki: Yuri Lowell
+  rarity: SR
+  element: Dark
+  specialty: Katana
+  race: Human
+  style: Attack

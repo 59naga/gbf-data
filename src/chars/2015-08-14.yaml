@@ -1,0 +1,20 @@
+- id: '3040056000'
+  char_id: '3024'
+  name: ゼタ
+  name_en: Zeta
+  name_wiki: Zeta (Summer)
+  rarity: SSR
+  element: Light
+  specialty: Spear
+  race: Human
+  style: Attack
+- id: '3030091000'
+  char_id: '1025'
+  name: スフラマール
+  name_en: Suframare
+  name_wiki: Suframare (Summer)
+  rarity: SR
+  element: Water
+  specialty: Staff
+  race: Harvin
+  style: Special

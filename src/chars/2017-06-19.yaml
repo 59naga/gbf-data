@@ -1,0 +1,30 @@
+- id: '3040124000'
+  char_id: '2046'
+  name: バウタオーダ
+  name_en: Baotorda
+  name_wiki: Baotorda (SSR)
+  rarity: SSR
+  element: Light
+  specialty: Sabre
+  race: Draph
+  style: Defense
+- id: '3040123000'
+  char_id: '3081'
+  name: メドゥーサ
+  name_en: Medusa
+  name_wiki: Medusa
+  rarity: SSR
+  element: Earth
+  specialty: Melee
+  race: Primal
+  style: Attack
+- id: '3030195000'
+  char_id: '3036'
+  name: ジャンヌダルク
+  name_en: Jeanne d'Arc
+  name_wiki: Jeanne d'Arc (SR)
+  rarity: SR
+  element: Light
+  specialty: Sabre
+  race: Human
+  style: Special

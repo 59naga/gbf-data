@@ -1,0 +1,16 @@
+- name: Lv100 ジ・オーダー・グランデ
+  name_en: Lvl 100 Grand Order
+  image: 'https://pbs.twimg.com/media/CdL4YeiUEAI0JKW.jpg'
+  element: Light
+- name: Lv100 プロトバハムート
+  name_en: Lvl 100 Proto Bahamut
+  image: 'https://pbs.twimg.com/media/CT6cIKmUYAAPVmD.jpg'
+  element: Dark
+- name: Lv100 黄龍
+  name_en: Lvl 100 Huanglong
+  image: 'https://pbs.twimg.com/media/ClrgFhVVYAECRRD.jpg'
+  element: Light
+- name: Lv100 黒麒麟
+  name_en: Lvl 100 Qilin
+  image: 'https://pbs.twimg.com/media/ClrgH4wUYAAax1o.jpg'
+  element: Dark

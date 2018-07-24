@@ -1,0 +1,40 @@
+- id: '3040015000'
+  char_id: '2006'
+  name: イオ
+  name_en: Io
+  name_wiki: Io (Summer)
+  rarity: SSR
+  element: Fire
+  specialty: Staff
+  race: Human
+  style: Attack
+- id: '3030032000'
+  char_id: '2029'
+  name: フェリ
+  name_en: Ferry
+  name_wiki: Ferry
+  rarity: SR
+  element: Light
+  specialty: Dagger
+  race: Erune
+  style: Special
+- id: '3030031000'
+  char_id: '2004'
+  name: ヘルナル
+  name_en: Helnar
+  name_wiki: Helnar (Summer)
+  rarity: SR
+  element: Wind
+  specialty: Sabre
+  race: Erune
+  style: Special
+- id: '3020023000'
+  char_id: '1016'
+  name: マリー
+  name_en: Mary
+  name_wiki: Mary (Summer)
+  rarity: R
+  element: Fire
+  specialty: Gun
+  race: Human
+  style: Balanced

@@ -1,0 +1,30 @@
+- id: '3030070000'
+  char_id: '2059'
+  name: 前川みく
+  name_en: Miku Maekawa
+  name_wiki: Miku Maekawa
+  rarity: SR
+  element: Wind
+  specialty: Melee
+  race: Human
+  style: Attack
+- id: '3030071000'
+  char_id: '2060'
+  name: 双葉杏
+  name_en: Anzu Futaba
+  name_wiki: Anzu Futaba
+  rarity: SR
+  element: Earth
+  specialty: Gun
+  race: Human
+  style: Special
+- id: '3030069000'
+  char_id: '2058'
+  name: 川島瑞樹
+  name_en: Mizuki Kawashima
+  name_wiki: Mizuki Kawashima
+  rarity: SR
+  element: Water
+  specialty: Staff
+  race: Human
+  style: Heal

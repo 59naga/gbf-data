@@ -1,0 +1,10 @@
+- id: '3040082000'
+  char_id: '3059'
+  name: 黒騎士
+  name_en: Black Knight
+  name_wiki: Black Knight
+  rarity: SSR
+  element: Dark
+  specialty: 'Sabre,Gun'
+  race: Human
+  style: Attack

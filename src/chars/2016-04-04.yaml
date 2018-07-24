@@ -1,0 +1,30 @@
+- id: '3040080000'
+  char_id: '3036'
+  name: ジャンヌダルク
+  name_en: Jeanne d'Arc
+  name_wiki: Jeanne d'Arc (Dark)
+  rarity: SSR
+  element: Dark
+  specialty: Sabre
+  race: Human
+  style: Attack
+- id: '3030124000'
+  char_id: '2089'
+  name: シャオ
+  name_en: Shao
+  name_wiki: Shao
+  rarity: SR
+  element: Dark
+  specialty: Staff
+  race: Erune
+  style: Special
+- id: '3020053000'
+  char_id: '1045'
+  name: アリステラ
+  name_en: Alistair
+  name_wiki: Alistair
+  rarity: R
+  element: Water
+  specialty: Staff
+  race: Harvin
+  style: Special

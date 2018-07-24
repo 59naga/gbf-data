@@ -1,0 +1,20 @@
+- id: '3040055000'
+  char_id: '2017'
+  name: ダヌア
+  name_en: Danua
+  name_wiki: Danua (Summer)
+  rarity: SSR
+  element: Dark
+  specialty: Dagger
+  race: Draph
+  style: Special
+- id: '3030087000'
+  char_id: '2061'
+  name: リーシャ
+  name_en: Lecia
+  name_wiki: Lecia (Summer)
+  rarity: SR
+  element: Wind
+  specialty: Sabre
+  race: Human
+  style: Balanced

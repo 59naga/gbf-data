@@ -1,0 +1,40 @@
+- id: '3040049000'
+  char_id: '3041'
+  name: シルヴァ
+  name_en: Silva
+  name_wiki: Silva
+  rarity: SSR
+  element: Water
+  specialty: Gun
+  race: Human
+  style: Attack
+- id: '3030076000'
+  char_id: '2065'
+  name: ザーリリャオー
+  name_en: Sahli Lao
+  name_wiki: Sahli Lao
+  rarity: SR
+  element: Water
+  specialty: Bow
+  race: Harvin
+  style: Balanced
+- id: '3030077000'
+  char_id: '2066'
+  name: ロミオ
+  name_en: Romeo
+  name_wiki: Romeo (Event)
+  rarity: SR
+  element: Water
+  specialty: Sabre
+  race: Human
+  style: Balanced
+- id: '3020038000'
+  char_id: '1034'
+  name: イッパツ
+  name_en: Ippatsu
+  name_wiki: Ippatsu
+  rarity: R
+  element: Fire
+  specialty: Melee
+  race: Human
+  style: Special

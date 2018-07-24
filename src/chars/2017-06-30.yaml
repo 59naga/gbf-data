@@ -1,0 +1,30 @@
+- id: '3040125000'
+  char_id: '3082'
+  name: ユグドラシル
+  name_en: Yggdrasil
+  name_wiki: Yggdrasil
+  rarity: SSR
+  element: Earth
+  specialty: Melee
+  race: Primal
+  style: Special
+- id: '3030197000'
+  char_id: '1013'
+  name: ウェルダー
+  name_en: Walder
+  name_wiki: Walder (Event)
+  rarity: SR
+  element: Earth
+  specialty: Dagger
+  race: Human
+  style: Special
+- id: '3030196000'
+  char_id: '2097'
+  name: ジャミル
+  name_en: Jamil
+  name_wiki: Jamil (Dark)
+  rarity: SR
+  element: Dark
+  specialty: Dagger
+  race: Human
+  style: Attack

@@ -1,0 +1,28 @@
+- name: Lv120 ナタク
+  name_en: Lvl 120 Nezha
+  image: 'https://pbs.twimg.com/media/CT6cQD-UcAE3nt2.jpg'
+  element: Wind
+- name: Lv120 フラム＝グラス
+  name_en: Lvl 120 Twin Elements
+  image: 'https://pbs.twimg.com/media/CVL2EBHUwAA8nUj.jpg'
+  element: Fire
+- name: Lv120 マキュラ・マリウス
+  name_en: Lvl 120 Macula Marius
+  image: 'https://pbs.twimg.com/media/CYBkd_1UEAATH9J.jpg'
+  element: Water
+- name: Lv120 メドゥーサ
+  name_en: Lvl 120 Medusa
+  image: 'https://pbs.twimg.com/media/CYBki-CUkAQVWW_.jpg'
+  element: Earth
+- name: Lv120 アポロン
+  name_en: Lvl 120 Apollo
+  image: 'https://pbs.twimg.com/media/CbTeO4fUkAEmmIN.jpg'
+  element: Light
+- name: Lv120 Dエンジェル・オリヴィエ
+  name_en: Lvl 120 Dark Angel Olivia
+  image: 'https://pbs.twimg.com/media/CbTeSqbUcAARoNV.jpg'
+  element: Dark
+- name: Lv110 ローズクイーン
+  name_en: Lvl 110 Rose Queen
+  image: 'https://pbs.twimg.com/media/CUnrstgUYAA4hOz.jpg'
+  element: Wind

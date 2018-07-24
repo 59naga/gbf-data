@@ -1,0 +1,30 @@
+- id: '3040130000'
+  char_id: '2131'
+  name: グレア
+  name_en: Grea
+  name_wiki: Grea
+  rarity: SSR
+  element: Fire
+  specialty: Melee
+  race: Unknown
+  style: Attack
+- id: '3030204000'
+  char_id: '2131'
+  name: グレア
+  name_en: Grea
+  name_wiki: Grea (Event)
+  rarity: SR
+  element: Fire
+  specialty: Melee
+  race: Unknown
+  style: Attack
+- id: '3030203000'
+  char_id: '2023'
+  name: 炎獄先生エルモート
+  name_en: Blazing Teacher Elmott
+  name_wiki: Blazing Teacher Elmott
+  rarity: SR
+  element: Fire
+  specialty: Staff
+  race: Erune
+  style: Balanced

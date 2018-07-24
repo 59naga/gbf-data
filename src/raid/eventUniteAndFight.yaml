@@ -1,0 +1,144 @@
+- name: Lv100 テスカトリポカ
+  name_en: Lvl 100 Tezcatlipoca
+  image: 'https://pbs.twimg.com/media/DiWj6pTV4AEFdwq.jpg'
+  element: Earth
+- name: Lv95 テスカトリポカ
+  name_en: Lvl 95 Tezcatlipoca
+  image: 'https://pbs.twimg.com/media/DiWj4XBVAAAY6eo.jpg'
+  element: Earth
+- name: Lv90 テスカトリポカ
+  name_en: Lvl 90 Tezcatlipoca
+  image: 'https://pbs.twimg.com/media/DiWj108UYAAaFBS.jpg'
+  element: Earth
+- name: Lv75 ティラノス
+  name_en: Lvl 75 Tyrannus
+  image: 'https://pbs.twimg.com/media/Cg7ofNmVEAEyw48.jpg'
+  element: Earth
+- name: Lv60 アロザロウス
+  name_en: Lvl 60 Allosaurus
+  image: 'https://pbs.twimg.com/media/Cg7oM5IUcAAHBkA.jpg'
+  element: Earth
+- name: Lv50 アロザロウス
+  name_en: Lvl 50 Allosaurus
+  image: 'https://pbs.twimg.com/media/Cg7oKDuUkAE_rq_.jpg'
+  element: Earth
+- name: Lv100 ケツァルコアトル
+  name_en: Lvl 100 Quetzalcoatl
+  image: ''
+  element: Wind
+- name: Lv100 セスランス
+  name_en: Lvl 100 Sethlans
+  image: 'https://pbs.twimg.com/media/DOO6_GHVoAAMgFC.jpg'
+  element: Fire
+- name: Lv100 オクトポーデ
+  name_en: Lvl 100 Oktopode
+  image: ''
+  element: Water
+- name: Lv100 スノウホワイト
+  name_en: Lvl 100 Snow White
+  image: 'https://pbs.twimg.com/media/DeASdlxV4AAhcGO.jpg'
+  element: Water
+- name: Lv100 パイア・ソー
+  name_en: Lvl 100 Piasa
+  image: ''
+  element: Earth
+- name: Lv100 ボンボン・ポニー
+  name_en: Lvl 100 Fudgey Filly
+  image: 'https://pbs.twimg.com/media/DWHr-q1VAAA9S6B.jpg'
+  element: Light
+- name: Lv100 テュポーン
+  name_en: Lvl 100 Typhon
+  image: 'https://pbs.twimg.com/media/DbgtT7uU8AA-ZGy.jpg'
+  element: Dark
+- name: Lv60 グガランナ
+  name_en: Lvl 60 Gugalanna
+  image: 'https://pbs.twimg.com/media/DT4eYVFU8AAAigm.jpg'
+  element: Wind
+- name: Lv60 ベオウルフ
+  name_en: Lvl 60 Grendel
+  image: 'https://pbs.twimg.com/media/CeSO-QrWwAECCG1.jpg'
+  element: Fire
+- name: Lv60 アウズンブラ
+  name_en: Lvl 60 Audumbla
+  image: 'https://pbs.twimg.com/media/CjLxVEtUkAAJCKK.jpg'
+  element: Water
+- name: Lv60 チョコポーチ
+  name_en: Lvl 60 Cocoa Creepy
+  image: ''
+  element: Light
+- name: Lv75 エメラルドホーン
+  name_en: Lvl 75 Viridian Horn
+  image: 'https://pbs.twimg.com/media/DT4ecd_VQAA5HIb.jpg'
+  element: Wind
+- name: Lv75 ヴァルカンライオ
+  name_en: Lvl 75 Vulcanrio
+  image: 'https://pbs.twimg.com/media/CeSO_xLUUAA4RvN.jpg'
+  element: Fire
+- name: Lv75 ビザールビースト
+  name_en: Lvl 75 Aberration
+  image: 'https://pbs.twimg.com/media/CjLxc3FUkAAqOiJ.jpg'
+  element: Water
+- name: Lv75　チョコレートメルヘン
+  name_en: Lvl 75 Chocolate Fantastica
+  image: 'https://pbs.twimg.com/media/DWHrwNuUMAAymYW.jpg'
+  element: Light
+- name: Lv75 ウィケッドレブル
+  name_en: Lvl 75 Wicked Rebel
+  image: 'https://pbs.twimg.com/media/CZoDFuLWwAAyx1o.jpg'
+  element: Dark
+- name: Lv90 ケツァルコアトル
+  name_en: Lvl 90 Quetzalcoatl
+  image: ''
+  element: Wind
+- name: Lv90 セスランス
+  name_en: Lvl 90 Sethlans
+  image: 'https://pbs.twimg.com/media/DOO68E0VoAAL-AS.jpg'
+  element: Fire
+- name: Lv90 スノウホワイト
+  name_en: Lvl 90 Snow White
+  image: 'https://pbs.twimg.com/media/DeASZFNVAAAYTVf.jpg'
+  element: Water
+- name: Lv90 オクトポーデ
+  name_en: Lvl 90 Oktopode
+  image: ''
+  element: Water
+- name: Lv90 パイア・ソー
+  name_en: Lvl 90 Piasa
+  image: ''
+  element: Earth
+- name: Lv90 ボンボン・ポニー
+  name_en: Lvl 90 Fudgey Filly
+  image: 'https://pbs.twimg.com/media/DWHr4P3U0AArZKq.jpg'
+  element: Light
+- name: Lv90 テュポーン
+  name_en: Lvl 90 Typhon
+  image: 'https://pbs.twimg.com/media/DbgtONrUQAAMtXh.jpg'
+  element: Dark
+- name: Lv95 ケツァルコアトル
+  name_en: Lvl 95 Quetzalcoatl
+  image: ''
+  element: Wind
+- name: Lv95 セスランス
+  name_en: Lvl 95 Sethlans
+  image: 'https://pbs.twimg.com/media/DOO69j3UQAAreS1.jpg'
+  element: Fire
+- name: Lv95 オクトポーデ
+  name_en: Lvl 95 Oktopode
+  image: ''
+  element: Water
+- name: Lv95 スノウホワイト
+  name_en: Lvl 95 Snow White
+  image: 'https://pbs.twimg.com/media/DeASblkVwAAILd0.jpg'
+  element: Water
+- name: Lv95 パイア・ソー
+  name_en: Lvl 95 Piasa
+  image: ''
+  element: Earth
+- name: Lv95 ボンボン・ポニー
+  name_en: Lvl 95 Fudgey Filly
+  image: 'https://pbs.twimg.com/media/DWHr7wUU0AAW7kL.jpg'
+  element: Light
+- name: Lv95 テュポーン
+  name_en: Lvl 95 Typhon
+  image: 'https://pbs.twimg.com/media/DbgtRVZVwAEoGEf.jpg'
+  element: Dark

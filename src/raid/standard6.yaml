@@ -1,0 +1,16 @@
+- name: Lv100 ラファエル
+  name_en: Lvl 100 Raphael
+  image: 'https://pbs.twimg.com/media/C666_h3V0AAQvt4.jpg'
+  element: Wind
+- name: Lv100 ミカエル
+  name_en: Lvl 100 Michael
+  image: 'https://pbs.twimg.com/media/C6668rmVsAAjpu1.jpg'
+  element: Fire
+- name: Lv100 ガブリエル
+  name_en: Lvl 100 Gabriel
+  image: 'https://pbs.twimg.com/media/C6666EXU4AE8ENT.jpg'
+  element: Water
+- name: Lv100 ウリエル
+  name_en: Lvl 100 Uriel
+  image: 'https://pbs.twimg.com/media/C66623wU8AACyL2.jpg'
+  element: Earth

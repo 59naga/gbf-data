@@ -1,0 +1,20 @@
+- id: '3040144000'
+  char_id: ''
+  name: シャリオス17世
+  name_en: Charioce XVII
+  name_wiki: Charioce XVII
+  rarity: SSR
+  element: Fire
+  specialty: Sabre
+  race: Human
+  style: Special
+- id: '3030229000'
+  char_id: '3073'
+  name: マキラ
+  name_en: Mahira
+  name_wiki: Mahira (Event)
+  rarity: SR
+  element: Earth
+  specialty: Harp
+  race: Harvin
+  style: Special

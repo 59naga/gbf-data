@@ -1,0 +1,30 @@
+- id: '3030089000'
+  char_id: '2072'
+  name: 三村かな子
+  name_en: Kanako Mimura
+  name_wiki: Kanako Mimura
+  rarity: SR
+  element: Earth
+  specialty: Staff
+  race: Human
+  style: Heal
+- id: '3030088000'
+  char_id: '2071'
+  name: 城ヶ崎莉嘉
+  name_en: Rika Jougasaki
+  name_wiki: Rika Jougasaki
+  rarity: SR
+  element: Fire
+  specialty: Spear
+  race: Human
+  style: Attack
+- id: '3030090000'
+  char_id: '2073'
+  name: 白坂小梅
+  name_en: Koume Shirasaka
+  name_wiki: Koume Shirasaka
+  rarity: SR
+  element: Dark
+  specialty: Staff
+  race: Human
+  style: Special

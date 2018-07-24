@@ -1,0 +1,20 @@
+- id: '3030074000'
+  char_id: '2063'
+  name: セイラン
+  name_en: Ceylan
+  name_wiki: Ceylan (Event)
+  rarity: SR
+  element: Light
+  specialty: Staff
+  race: Erune
+  style: Heal
+- id: '3030073000'
+  char_id: '2062'
+  name: ペンギー
+  name_en: Pengy
+  name_wiki: Pengy (Event)
+  rarity: SR
+  element: Water
+  specialty: Gun
+  race: Human
+  style: Defense

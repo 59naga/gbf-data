@@ -1,0 +1,30 @@
+- id: '3040064000'
+  char_id: '1026'
+  name: ヨダルラーハ
+  name_en: Yodarha
+  name_wiki: Yodarha (SSR)
+  rarity: SSR
+  element: Water
+  specialty: 'Sabre,Katana'
+  race: Harvin
+  style: Attack
+- id: '3030106000'
+  char_id: '2028'
+  name: シグ
+  name_en: Sig
+  name_wiki: Sig
+  rarity: SR
+  element: Water
+  specialty: 'Sabre,Spear'
+  race: Human
+  style: Attack
+- id: '3020047000'
+  char_id: '1028'
+  name: クムユ
+  name_en: Camieux
+  name_wiki: Camieux (Earth)
+  rarity: R
+  element: Earth
+  specialty: Gun
+  race: Draph
+  style: Special

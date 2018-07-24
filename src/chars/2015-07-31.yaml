@@ -1,0 +1,50 @@
+- id: '3040054000'
+  char_id: '2005'
+  name: カタリナ
+  name_en: Katalina
+  name_wiki: Katalina (Grand)
+  rarity: SSR
+  element: Water
+  specialty: Sabre
+  race: Human
+  style: Balanced
+- id: '3040053000'
+  char_id: '2019'
+  name: ヴィーラ
+  name_en: Vira
+  name_wiki: Vira (Summer)
+  rarity: SSR
+  element: Earth
+  specialty: Sabre
+  race: Human
+  style: Special
+- id: '3030085000'
+  char_id: '2007'
+  name: オイゲン
+  name_en: Eugen
+  name_wiki: Eugen (Summer)
+  rarity: SR
+  element: Earth
+  specialty: Gun
+  race: Human
+  style: Attack
+- id: '3030086000'
+  char_id: '2022'
+  name: ジン
+  name_en: Jin
+  name_wiki: Jin (Ronin)
+  rarity: SR
+  element: Earth
+  specialty: Katana
+  race: Human
+  style: Attack
+- id: '3020041000'
+  char_id: '1027'
+  name: ローアイン
+  name_en: Lowain
+  name_wiki: Lowain (Summer)
+  rarity: R
+  element: Dark
+  specialty: Dagger
+  race: Erune
+  style: Attack

@@ -1,0 +1,20 @@
+- id: '3040067000'
+  char_id: '3040'
+  name: クラリス
+  name_en: Clarisse
+  name_wiki: Clarisse (Holiday)
+  rarity: SSR
+  element: Earth
+  specialty: Staff
+  race: Human
+  style: Special
+- id: '3030109000'
+  char_id: '2048'
+  name: ファスティバ
+  name_en: Ladiva
+  name_wiki: Ladiva (Holiday)
+  rarity: SR
+  element: Light
+  specialty: Melee
+  race: Draph
+  style: Attack

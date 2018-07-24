@@ -1,0 +1,20 @@
+- id: '3040141000'
+  char_id: '2019'
+  name: ヴィーラ
+  name_en: Vira
+  name_wiki: Vira (Grand)
+  rarity: SSR
+  element: Light
+  specialty: Axe
+  race: Primal
+  style: Defense
+- id: '3030224000'
+  char_id: '2136'
+  name: ミリン
+  name_en: Mirin
+  name_wiki: Mirin
+  rarity: SR
+  element: Wind
+  specialty: Katana
+  race: Human
+  style: Attack

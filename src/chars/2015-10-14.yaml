@@ -1,0 +1,20 @@
+- id: '3040061000'
+  char_id: '2032'
+  name: フィーナ
+  name_en: Feena
+  name_wiki: Feena
+  rarity: SSR
+  element: Wind
+  specialty: Bow
+  race: Human
+  style: Attack
+- id: '3030100000'
+  char_id: '2078'
+  name: ミニゴブ
+  name_en: Goblin Mage
+  name_wiki: Goblin Mage
+  rarity: SR
+  element: Wind
+  specialty: Staff
+  race: Unknown
+  style: Special

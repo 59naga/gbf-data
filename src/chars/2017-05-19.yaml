@@ -1,0 +1,20 @@
+- id: '3040121000'
+  char_id: '3040'
+  name: クラリス
+  name_en: Clarisse
+  name_wiki: Clarisse (Light)
+  rarity: SSR
+  element: Light
+  specialty: Staff
+  race: Human
+  style: Attack
+- id: '3030190000'
+  char_id: '2127'
+  name: プレデター
+  name_en: Predator
+  name_wiki: Predator
+  rarity: SR
+  element: Dark
+  specialty: Melee
+  race: Human
+  style: Attack

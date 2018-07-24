@@ -1,0 +1,24 @@
+- name: Lv120 シヴァ
+  name_en: Lvl 120 Shiva
+  image: 'https://pbs.twimg.com/media/DX5TiYOVMAAFFFL.jpg'
+  element: Fire
+- name: Lv120 エウロペ
+  name_en: Lvl 120 Europa
+  image: 'https://pbs.twimg.com/media/DX5TmDVVoAA_V0a.jpg'
+  element: Water
+- name: Lv120 ゴッドガード・ブローディア
+  name_en: Lvl 120 Godsworn Alexiel
+  image: 'https://pbs.twimg.com/media/DX5TpAvVQAAYzR_.jpg'
+  element: Earth
+- name: Lv120 グリームニル
+  name_en: Lvl 120 Grimnir
+  image: 'https://pbs.twimg.com/media/DX5Tr0WVoAAzSFa.jpg'
+  element: Wind
+- name: Lv120 メタトロン
+  name_en: Lvl 120 Metatron
+  image: 'https://pbs.twimg.com/media/DZVln20U0AAIFLt.jpg'
+  element: Light
+- name: Lv120 アバター
+  name_en: Lvl 120 Avatar
+  image: 'https://pbs.twimg.com/media/DZVlq39U0AIRPF2.jpg'
+  element: Dark

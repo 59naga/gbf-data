@@ -1,0 +1,20 @@
+- id: '3040176000'
+  char_id: '2010'
+  name: ロゼッタ
+  name_en: Rosetta
+  name_wiki: Rosetta (Summer)
+  rarity: SSR
+  element: Earth
+  specialty: Dagger
+  race: Primal
+  style: Balanced
+- id: '3030245000'
+  char_id: '3071'
+  name: ユイシス
+  name_en: Yuisis
+  name_wiki: Yuisis (Summer)
+  rarity: SR
+  element: Wind
+  specialty: 'Sabre,Katana'
+  race: Erune
+  style: Balanced

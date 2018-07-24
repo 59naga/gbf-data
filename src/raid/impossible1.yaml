@@ -1,0 +1,24 @@
+- name: Lv100 ティアマト・マグナ＝エア
+  name_en: Lvl 100 Tiamat Omega Ayr
+  image: 'https://pbs.twimg.com/media/CT6cNUBUAAETdz6.jpg'
+  element: Wind
+- name: Lv100 コロッサス・マグナ
+  name_en: Lvl 100 Colossus Omega
+  image: 'https://pbs.twimg.com/media/CVL2CmeUwAAElDW.jpg'
+  element: Fire
+- name: Lv100 リヴァイアサン・マグナ
+  name_en: Lvl 100 Leviathan Omega
+  image: 'https://pbs.twimg.com/media/CYBkbZSUAAA2BW-.jpg'
+  element: Water
+- name: Lv100 ユグドラシル・マグナ
+  name_en: Lvl 100 Yggdrasil Omega
+  image: 'https://pbs.twimg.com/media/CYBkhTmUsAAPjgu.jpg'
+  element: Earth
+- name: Lv100 シュヴァリエ・マグナ
+  name_en: Lvl 100 Luminiera Omega
+  image: 'https://pbs.twimg.com/media/CbTeQ1fVIAAEoqi.jpg'
+  element: Light
+- name: Lv100 セレスト・マグナ
+  name_en: Lvl 100 Celeste Omega
+  image: 'https://pbs.twimg.com/media/CbTeWuMUUAIzFZl.jpg'
+  element: Dark

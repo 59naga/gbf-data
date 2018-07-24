@@ -1,0 +1,20 @@
+- id: '3040113000'
+  char_id: '3004'
+  name: レ・フィーエ
+  name_en: De La Fille
+  name_wiki: De La Fille (Earth)
+  rarity: SSR
+  element: Earth
+  specialty: Sabre
+  race: Human
+  style: Heal
+- id: '3030183000'
+  char_id: '1046'
+  name: ヴェリトール
+  name_en: Vermeil
+  name_wiki: Vermeil (SR)
+  rarity: SR
+  element: Light
+  specialty: Sabre
+  race: Harvin
+  style: Balanced

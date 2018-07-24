@@ -1,0 +1,20 @@
+- id: '3030040000'
+  char_id: '2036'
+  name: 島村卯月
+  name_en: Uzuki Shimamura
+  name_wiki: Uzuki Shimamura
+  rarity: SR
+  element: Light
+  specialty: Sabre
+  race: Human
+  style: Balanced
+- id: '3030041000'
+  char_id: '2037'
+  name: 渋谷凛
+  name_en: Rin Shibuya
+  name_wiki: Rin Shibuya
+  rarity: SR
+  element: Water
+  specialty: Sabre
+  race: Human
+  style: Attack

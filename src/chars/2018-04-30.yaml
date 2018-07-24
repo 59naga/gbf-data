@@ -1,0 +1,30 @@
+- id: '3040159000'
+  char_id: '2110'
+  name: ククル
+  name_en: Cucouroux
+  name_wiki: Cucouroux (SSR)
+  rarity: SSR
+  element: Water
+  specialty: Gun
+  race: Human
+  style: Balanced
+- id: '3030242000'
+  char_id: '2015'
+  name: アリーザ
+  name_en: Aliza
+  name_wiki: Aliza (Water)
+  rarity: SR
+  element: Water
+  specialty: Melee
+  race: Draph
+  style: Attack
+- id: '3030240000'
+  char_id: '3037'
+  name: カルメリーナ
+  name_en: Carmelina
+  name_wiki: Carmelina (SR)
+  rarity: SR
+  element: Earth
+  specialty: Dagger
+  race: Draph
+  style: Special

@@ -1,0 +1,20 @@
+- id: '3040104000'
+  char_id: '3017'
+  name: アルルメイヤ
+  name_en: Arulumaya
+  name_wiki: Arulumaya (Holiday)
+  rarity: SSR
+  element: Water
+  specialty: Staff
+  race: Harvin
+  style: Special
+- id: '3030169000'
+  char_id: '2092'
+  name: セン
+  name_en: Sen
+  name_wiki: Sen (Holiday)
+  rarity: SR
+  element: Wind
+  specialty: Melee
+  race: Erune
+  style: Attack

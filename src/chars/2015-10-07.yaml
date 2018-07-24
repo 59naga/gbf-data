@@ -1,0 +1,30 @@
+- id: '3030097000'
+  char_id: '2075'
+  name: 天道輝
+  name_en: Teru Tendo
+  name_wiki: Teru Tendo
+  rarity: SR
+  element: Fire
+  specialty: Sabre
+  race: Human
+  style: Attack
+- id: '3030099000'
+  char_id: '2077'
+  name: 柏木翼
+  name_en: Tsubasa Kashiwagi
+  name_wiki: Tsubasa Kashiwagi
+  rarity: SR
+  element: Wind
+  specialty: Gun
+  race: Human
+  style: Balanced
+- id: '3030098000'
+  char_id: '2076'
+  name: 桜庭薫
+  name_en: Kaoru Sakuraba
+  name_wiki: Kaoru Sakuraba
+  rarity: SR
+  element: Water
+  specialty: Dagger
+  race: Human
+  style: Special

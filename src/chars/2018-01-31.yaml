@@ -1,0 +1,30 @@
+- id: '3040150000'
+  char_id: '3055'
+  name: ゾーイ
+  name_en: Zooey
+  name_wiki: Zooey
+  rarity: SSR
+  element: Light
+  specialty: Gun
+  race: Primal
+  style: Balanced
+- id: '3030233000'
+  char_id: '3055'
+  name: ゾーイ
+  name_en: Zooey
+  name_wiki: Zooey (Event)
+  rarity: SR
+  element: Fire
+  specialty: Spear
+  race: Primal
+  style: Special
+- id: '3030234000'
+  char_id: '1059'
+  name: ランドル
+  name_en: Randall
+  name_wiki: Randall (SR)
+  rarity: SR
+  element: Dark
+  specialty: Melee
+  race: Human
+  style: Attack

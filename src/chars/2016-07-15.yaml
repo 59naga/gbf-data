@@ -1,0 +1,30 @@
+- id: '3040088000'
+  char_id: '3063'
+  name: イングヴェイ
+  name_en: Yngwie
+  name_wiki: Yngwie
+  rarity: SSR
+  element: Water
+  specialty: 'Melee,Gun'
+  race: Human
+  style: Defense
+- id: '3030147000'
+  char_id: '2021'
+  name: サラ
+  name_en: Sara
+  name_wiki: Sara (Summer)
+  rarity: SR
+  element: Earth
+  specialty: Melee
+  race: Human
+  style: Defense
+- id: '3020060000'
+  char_id: '1034'
+  name: イッパツ
+  name_en: Ippatsu
+  name_wiki: Ippatsu (Summer)
+  rarity: R
+  element: Fire
+  specialty: Melee
+  race: Human
+  style: Special

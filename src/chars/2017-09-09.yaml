@@ -1,0 +1,30 @@
+- id: '3040131000'
+  char_id: ''
+  name: 三日月宗近
+  name_en: Mikazuki Munechika
+  name_wiki: Mikazuki Munechika
+  rarity: SSR
+  element: Light
+  specialty: Katana
+  race: Unknown
+  style: Balanced
+- id: '3030205000'
+  char_id: ''
+  name: 和泉守兼定
+  name_en: Izuminokami Kanesada
+  name_wiki: Izuminokami Kanesada
+  rarity: SR
+  element: Fire
+  specialty: Katana
+  race: Unknown
+  style: Attack
+- id: '3030206000'
+  char_id: ''
+  name: 山姥切国広
+  name_en: Yamanbagiri Kunihiro
+  name_wiki: Yamanbagiri Kunihiro
+  rarity: SR
+  element: Earth
+  specialty: Katana
+  race: Unknown
+  style: Special

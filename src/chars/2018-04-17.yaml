@@ -1,0 +1,20 @@
+- id: '3040158000'
+  char_id: '3098'
+  name: ブローディア
+  name_en: Alexiel
+  name_wiki: Alexiel
+  rarity: SSR
+  element: Earth
+  specialty: 'Sabre,Katana'
+  race: Primal
+  style: Defense
+- id: '3030239000'
+  char_id: '1030'
+  name: バロワ
+  name_en: Barawa
+  name_wiki: Barawa (SR)
+  rarity: SR
+  element: Light
+  specialty: Gun
+  race: Draph
+  style: Attack

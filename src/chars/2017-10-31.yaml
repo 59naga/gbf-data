@@ -1,0 +1,30 @@
+- id: '3040138000'
+  char_id: '3006'
+  name: ユエル
+  name_en: Yuel
+  name_wiki: Yuel (Water)
+  rarity: SSR
+  element: Water
+  specialty: 'Sabre,Katana'
+  race: Erune
+  style: Special
+- id: '3030222000'
+  char_id: '1037'
+  name: カルテイラ
+  name_en: Karteira
+  name_wiki: Karteira (SR)
+  rarity: SR
+  element: Wind
+  specialty: Melee
+  race: Erune
+  style: Special
+- id: '3030223000'
+  char_id: '3006'
+  name: ユエル
+  name_en: Yuel
+  name_wiki: Yuel (Event)
+  rarity: SR
+  element: Water
+  specialty: 'Sabre,Katana'
+  race: Erune
+  style: Balanced

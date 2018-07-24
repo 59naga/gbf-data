@@ -1,0 +1,40 @@
+- id: '3040047000'
+  char_id: '1011'
+  name: ペトラ
+  name_en: Petra
+  name_wiki: Petra (SSR)
+  rarity: SSR
+  element: Wind
+  specialty: Staff
+  race: Human
+  style: Balanced
+- id: '3030067000'
+  char_id: '2056'
+  name: スィール
+  name_en: Syr
+  name_wiki: Syr (Event)
+  rarity: SR
+  element: Wind
+  specialty: Dagger
+  race: Human
+  style: Special
+- id: '3030066000'
+  char_id: '1009'
+  name: ヘイゼン
+  name_en: Hazen
+  name_wiki: Hazen (SR)
+  rarity: SR
+  element: Wind
+  specialty: 'Staff,Melee'
+  race: Human
+  style: Heal
+- id: '3020036000'
+  char_id: '1032'
+  name: カルバ
+  name_en: Karva
+  name_wiki: Karva
+  rarity: R
+  element: Fire
+  specialty: Gun
+  race: Draph
+  style: Balanced

@@ -1,0 +1,30 @@
+- id: '3040140000'
+  char_id: '3020'
+  name: ランスロット
+  name_en: Lancelot
+  name_wiki: Lancelot (Wind)
+  rarity: SSR
+  element: Wind
+  specialty: 'Sabre,Dagger'
+  race: Human
+  style: Attack
+- id: '3030226000'
+  char_id: '2137'
+  name: アーサー
+  name_en: Arthur
+  name_wiki: Arthur (Event)
+  rarity: SR
+  element: Wind
+  specialty: Sabre
+  race: Human
+  style: Balanced
+- id: '3030225000'
+  char_id: '3021'
+  name: ソフィア
+  name_en: Sophia
+  name_wiki: Sophia (SR)
+  rarity: SR
+  element: Light
+  specialty: Staff
+  race: Human
+  style: Heal

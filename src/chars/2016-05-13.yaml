@@ -1,0 +1,30 @@
+- id: '3030131000'
+  char_id: '2094'
+  name: エリカ・フォンティーヌ
+  name_en: Erica Fontaine
+  name_wiki: Erica Fontaine
+  rarity: SR
+  element: Light
+  specialty: Gun
+  race: Human
+  style: Heal
+- id: '3030132000'
+  char_id: '2095'
+  name: ジェミニ・サンライズ
+  name_en: Gemini Sunrise
+  name_wiki: Gemini Sunrise
+  rarity: SR
+  element: Fire
+  specialty: 'Katana,Gun'
+  race: Human
+  style: Attack
+- id: '3030130000'
+  char_id: '2093'
+  name: 真宮寺さくら
+  name_en: Sakura Shinguji
+  name_wiki: Sakura Shinguji
+  rarity: SR
+  element: Wind
+  specialty: Katana
+  race: Human
+  style: Balanced

@@ -1,0 +1,40 @@
+- id: '3040093000'
+  char_id: '3064'
+  name: シャノワール
+  name_en: Chat Noir
+  name_wiki: Chat Noir
+  rarity: SSR
+  element: Water
+  specialty: 'Staff,Dagger'
+  race: Human
+  style: Special
+- id: '3030154000'
+  char_id: '1030'
+  name: バロワ
+  name_en: Barawa
+  name_wiki: Barawa (Event)
+  rarity: SR
+  element: Fire
+  specialty: Gun
+  race: Draph
+  style: Attack
+- id: '3030153000'
+  char_id: '2062'
+  name: ペンギー
+  name_en: Pengy
+  name_wiki: Pengy
+  rarity: SR
+  element: Water
+  specialty: 'Gun,Melee'
+  race: Human
+  style: Defense
+- id: '3020062000'
+  char_id: '1052'
+  name: カイラナ
+  name_en: Cailana
+  name_wiki: Cailana
+  rarity: R
+  element: Water
+  specialty: Melee
+  race: Erune
+  style: Attack

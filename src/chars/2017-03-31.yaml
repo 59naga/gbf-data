@@ -1,0 +1,30 @@
+- id: '3040116000'
+  char_id: '2019'
+  name: キャタピラとヴィーラ
+  name_en: Lady Katapillar and Vira
+  name_wiki: Lady Katapillar and Vira
+  rarity: SSR
+  element: Water
+  specialty: 'Melee,Gun'
+  race: Unknown
+  style: Special
+- id: '3040115000'
+  char_id: '3078'
+  name: スツルム
+  name_en: Sturm
+  name_wiki: Sturm
+  rarity: SSR
+  element: Fire
+  specialty: Sabre
+  race: Draph
+  style: Attack
+- id: '3030185000'
+  char_id: '2126'
+  name: ルドミリア
+  name_en: Ludmila
+  name_wiki: Ludmila
+  rarity: SR
+  element: Dark
+  specialty: Gun
+  race: Harvin
+  style: Attack

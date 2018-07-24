@@ -1,0 +1,30 @@
+- id: '3030138000'
+  char_id: '2101'
+  name: エリーゼ・ルタス
+  name_en: Elize Lutus
+  name_wiki: Elize Lutus
+  rarity: SR
+  element: Dark
+  specialty: Staff
+  race: Human
+  style: Special
+- id: '3030136000'
+  char_id: '2099'
+  name: スタン・エルロン
+  name_en: Stahn Aileron
+  name_wiki: Stahn Aileron
+  rarity: SR
+  element: Fire
+  specialty: Sabre
+  race: Human
+  style: Attack
+- id: '3030137000'
+  char_id: '2100'
+  name: ティア・グランツ
+  name_en: Tear Grants
+  name_wiki: Tear Grants
+  rarity: SR
+  element: Light
+  specialty: Staff
+  race: Human
+  style: Balanced

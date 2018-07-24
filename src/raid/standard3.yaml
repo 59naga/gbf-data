@@ -1,0 +1,24 @@
+- name: Lv100 ナタク
+  name_en: Lvl 100 Nezha
+  image: 'https://pbs.twimg.com/media/CT6cOzzUwAESsq_.jpg'
+  element: Wind
+- name: Lv100 フラム＝グラス
+  name_en: Lvl 100 Twin Elements
+  image: 'https://pbs.twimg.com/media/CT_qpfCUsAA9vfF.jpg'
+  element: Fire
+- name: Lv100 マキュラ・マリウス
+  name_en: Lvl 100 Macula Marius
+  image: 'https://pbs.twimg.com/media/CT6cYp-UsAAy_f0.jpg'
+  element: Water
+- name: Lv100 メドゥーサ
+  name_en: Lvl 100 Medusa
+  image: 'https://pbs.twimg.com/media/CT6ccesVEAAy_Kx.jpg'
+  element: Earth
+- name: Lv100 アポロン
+  name_en: Lvl 100 Apollo
+  image: 'https://pbs.twimg.com/media/CT6chwtUsAA0WFw.jpg'
+  element: Light
+- name: Lv100 Dエンジェル・オリヴィエ
+  name_en: Lvl 100 Dark Angel Olivia
+  image: 'https://pbs.twimg.com/media/CT6csqNVAAA_GFU.jpg'
+  element: Dark

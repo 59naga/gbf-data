@@ -1,0 +1,20 @@
+- id: '3030194000'
+  char_id: ''
+  name: 一ノ瀬志希
+  name_en: Shiki Ichinose
+  name_wiki: Shiki Ichinose
+  rarity: SR
+  element: Wind
+  specialty: Staff
+  race: Human
+  style: Special
+- id: '3030193000'
+  char_id: ''
+  name: 新田美波
+  name_en: Minami Nitta
+  name_wiki: Minami Nitta
+  rarity: SR
+  element: Water
+  specialty: Spear
+  race: Human
+  style: Balanced
