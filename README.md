@@ -1,5 +1,13 @@
 gbf-data
 ---
+<p align="right">
+  <a href="https://www.npmjs.com/package/gbf-data">
+    <img alt="Npm version" src="https://badge.fury.io/js/gbf-data.svg">
+  </a>
+  <a href="https://travis-ci.org/59naga/gbf-data">
+    <img alt="Build Status" src="https://travis-ci.org/59naga/gbf-data.svg?branch=master">
+  </a>
+</p>
 
 `src/chars` -> [`dist/chars.json`](https://unpkg.com/gbf-data/dist/chars.json)
 ---
