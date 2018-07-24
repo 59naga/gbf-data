@@ -2,7 +2,8 @@
   "name": "gbf-data",
   "description": "build granbluefantasy json files using yaml",
   "files": [
-    "dist"
+    "dist",
+    "yarn.lock"
   ],
   "scripts": {
     "start": "abby format, build --watch",
