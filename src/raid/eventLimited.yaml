@@ -2,32 +2,27 @@
   name_en: Lvl 100 Electric Eal
   image: 'https://pbs.twimg.com/media/DjcA400VAAAMQQL.jpg'
   element: Light
-  limit:
-    - 2018-07-31,2018-08-08
+  limit: 2018-07-31,2018-08-08
 - name: Lv50 デンキンナギ
   name_en: Lvl 50 Electric Eal
   image: 'https://pbs.twimg.com/media/DjcA400VAAAMQQL.jpg'
   element: Light
-  limit:
-    - 2018-07-31,2018-08-08
+  limit: 2018-07-31,2018-08-08
 - name: Lv30 ンナギ
   name_en: Lvl 30 Eal
   image: 'http://game-a.granbluefantasy.jp/assets/img_mid/sp/event/treasureraid071/assets/other/73109/banner_quest.png'
   element: Light
-  limit:
-    - 2018-07-24,2018-07-30
+  limit: 2018-07-31,2018-08-08
 - name: Lv30 ゴシパラヤ＝ゲィル
   name_en: Lvl 30 Battleship Jenkins
   image: 'https://pbs.twimg.com/media/DixCYaOVMAACcGq.jpg'
   element: Fire
-  limit:
-    - 2018-07-24,2018-07-30
+  limit: 2018-07-24,2018-07-30
 - name: Lv50 ンニ
   name_en: Lvl 50 Sea Urkin
   image: 'https://pbs.twimg.com/media/DixCbGjUYAE5KRl.jpg'
   element: Fire
-  limit:
-    - 2018-07-24,2018-07-30
+  limit: 2018-07-24,2018-07-30
 - name: Lv100 サンダルフォン
   name_en: Lvl 100 Sandalphon
   image: ''
