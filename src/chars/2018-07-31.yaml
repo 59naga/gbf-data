@@ -1,0 +1,40 @@
+- id: '3040177000'
+  char_id: '3094'
+  name: イルザ
+  name_en: Ilsa
+  name_wiki: Ilsa (Summer)
+  rarity: SSR
+  element: Fire
+  specialty: 'Bow,Gun'
+  race: Erune
+  style: Attack
+- id: '3040178000'
+  char_id: '2000'
+  name: ノイシュ
+  name_en: Naoise
+  name_wiki: Naoise (Summer)
+  rarity: SSR
+  element: Light
+  specialty: Spear
+  race: Human
+  style: Defense
+- id: '3030247000'
+  char_id: '3048'
+  name: リルル
+  name_en: Lilele
+  name_wiki: Lilele (Summer)
+  rarity: SR
+  element: Water
+  specialty: Harp
+  race: Harvin
+  style: Special
+- id: '3030246000'
+  char_id: '3092'
+  name: オリヴィエ
+  name_en: Olivia
+  name_wiki: Olivia (Event)
+  rarity: SR
+  element: Dark
+  specialty: Sabre
+  race: Primal
+  style: Balanced
