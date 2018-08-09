@@ -1,3 +1,13 @@
+- name: Lv50 ニヒリス
+  name_en: Lvl 50 Nihilith
+  image: 'https://pbs.twimg.com/media/DkKKpNLVAAADYhT.jpg'
+  element: Fire
+  limit: 2018-08-09,2018-08-21
+- name: Lv30 ニヒリス
+  name_en: Lvl 30 Nihilith
+  image: 'https://pbs.twimg.com/media/DkKKpNLVAAADYhT.jpg'
+  element: Fire
+  limit: 2018-08-09,2018-08-21
 - name: Lv100 デンキンナギ
   name_en: Lvl 100 Electric Eal
   image: 'https://pbs.twimg.com/media/DjfBImrUwAAukY1.jpg'
