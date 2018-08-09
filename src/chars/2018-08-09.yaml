@@ -1,0 +1,30 @@
+- id: '3040184000'
+  char_id: ''
+  name: 津島善子＆国木田花丸＆黒澤ルビィ
+  name_en: Aqours First-Years
+  name_wiki: Aqours First-Years
+  rarity: SSR
+  element: Earth
+  specialty: Staff
+  race: Human
+  style: Heal
+- id: '3040183000'
+  char_id: ''
+  name: 桜内梨子＆高海千歌＆渡辺 曜
+  name_en: Aqours Second-Years
+  name_wiki: Aqours Second-Years
+  rarity: SSR
+  element: Water
+  specialty: Sabre,Gun
+  race: Human
+  style: Balanced
+- id: '3040185000'
+  char_id: ''
+  name: 松浦果南＆黒澤ダイヤ＆小原鞠莉
+  name_en: Aqours Third-Years
+  name_wiki: Aqours Third-Years
+  rarity: SSR
+  element: Fire
+  specialty: Spear,Gun
+  race: Human
+  style: Defense
