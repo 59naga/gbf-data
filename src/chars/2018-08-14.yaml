@@ -1,0 +1,20 @@
+- id: '3040179000'
+  char_id: '2131'
+  name: グレア
+  name_en: Grea (Summer)
+  name_wiki: Grea (Summer)
+  rarity: SSR
+  element: Water
+  specialty: Melee
+  race: Unknown
+  style: Attack
+- id: '3030250000'
+  char_id: '2102'
+  name: アルメイダ
+  name_en: Almeida (Summer)
+  name_wiki: Almeida (Summer)
+  rarity: SR
+  element: Earth
+  specialty: Axe
+  race: Draph
+  style: Attack
