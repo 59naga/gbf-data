@@ -1,3 +1,18 @@
+- name: Lv100 ザオシェン
+  name_en: Lvl 100 Zaoshen
+  image: 'https://pbs.twimg.com/media/DlSI5QtVsAEbhfI.jpg'
+  element: Fire
+  limit: 2018-08-23,2018-08-30
+- name: Lv95 ザオシェン
+  name_en: Lvl 95 Zaoshen
+  image: 'https://pbs.twimg.com/media/DlSI5QtVsAEbhfI.jpg'
+  element: Fire
+  limit: 2018-08-23,2018-08-30
+- name: Lv90 ザオシェン
+  name_en: Lvl 90 Zaoshen
+  image: 'https://pbs.twimg.com/media/DlSI5QtVsAEbhfI.jpg'
+  element: Fire
+  limit: 2018-08-23,2018-08-30
 - name: Lv100 テスカトリポカ
   name_en: Lvl 100 Tezcatlipoca
   image: 'https://pbs.twimg.com/media/DiWj6pTV4AEFdwq.jpg'
