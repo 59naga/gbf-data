@@ -13,6 +13,21 @@
   image: 'https://pbs.twimg.com/media/DlSI5QtVsAEbhfI.jpg'
   element: Fire
   limit: 2018-08-23,2018-08-30
+- name: Lv75 ヴァルカンライオ
+  name_en: Lvl 75 Vulcanrio
+  image: 'https://pbs.twimg.com/media/CeSO_xLUUAA4RvN.jpg'
+  element: Fire
+  limit: 2018-08-23,2018-08-30
+- name: Lv60 ベオウルフ
+  name_en: Lvl 60 Grendel
+  image: 'https://pbs.twimg.com/media/CeSO-QrWwAECCG1.jpg'
+  element: Fire
+  limit: 2018-08-23,2018-08-30
+- name: Lv50 ベオウルフ
+  name_en: Lvl 50 Grendel
+  image: 'https://pbs.twimg.com/media/CeSO-QrWwAECCG1.jpg'
+  element: Fire
+  limit: 2018-08-23,2018-08-30
 - name: Lv100 テスカトリポカ
   name_en: Lvl 100 Tezcatlipoca
   image: 'https://pbs.twimg.com/media/DiWj6pTV4AEFdwq.jpg'
@@ -69,10 +84,6 @@
   name_en: Lvl 60 Gugalanna
   image: 'https://pbs.twimg.com/media/DT4eYVFU8AAAigm.jpg'
   element: Wind
-- name: Lv60 ベオウルフ
-  name_en: Lvl 60 Grendel
-  image: 'https://pbs.twimg.com/media/CeSO-QrWwAECCG1.jpg'
-  element: Fire
 - name: Lv60 アウズンブラ
   name_en: Lvl 60 Audumbla
   image: 'https://pbs.twimg.com/media/CjLxVEtUkAAJCKK.jpg'
@@ -85,10 +96,6 @@
   name_en: Lvl 75 Viridian Horn
   image: 'https://pbs.twimg.com/media/DT4ecd_VQAA5HIb.jpg'
   element: Wind
-- name: Lv75 ヴァルカンライオ
-  name_en: Lvl 75 Vulcanrio
-  image: 'https://pbs.twimg.com/media/CeSO_xLUUAA4RvN.jpg'
-  element: Fire
 - name: Lv75 ビザールビースト
   name_en: Lvl 75 Aberration
   image: 'https://pbs.twimg.com/media/CjLxc3FUkAAqOiJ.jpg'
