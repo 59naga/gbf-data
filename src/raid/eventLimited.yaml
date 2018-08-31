@@ -1,3 +1,18 @@
+- name: Lv100 ショウ
+  name_en: Lvl 100 Sho
+  image: 'https://lh3.googleusercontent.com/x5PKlz0yuajzdA5Qw82fxA-9hUBT0zN0phRl9tSCdBPXI5fh5PLeUd6b9spVt4HNNYEag7RQsUrXRdiJaJxoR3MEU-H2TvJakk6ZG7H0v-m9'
+  element: Wind
+  limit: 2018-08-31,2018-09-09
+- name: Lv50 ショウ
+  name_en: Lvl 50 Sho
+  image: 'https://lh3.googleusercontent.com/x5PKlz0yuajzdA5Qw82fxA-9hUBT0zN0phRl9tSCdBPXI5fh5PLeUd6b9spVt4HNNYEag7RQsUrXRdiJaJxoR3MEU-H2TvJakk6ZG7H0v-m9'
+  element: Wind
+  limit: 2018-08-31,2018-09-09
+- name: Lv30 宿命夜想曲・特攻隊
+  name_en: Lvl 30 Destiny Nocturne (Kamikaze)
+  image: 'http://game-a1.granbluefantasy.jp/assets/img/sp/assets/summon/qm/treasureraid072_vhard.png'
+  element: Wind
+  limit: 2018-08-31,2018-09-09
 - name: Lv60 暴走するニヒリス
   name_en: Lvl 60 Rampaging Nihilith
   image: 'https://pbs.twimg.com/media/DkkondsUcAUSB06.jpg'
