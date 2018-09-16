@@ -10,7 +10,7 @@
     "format": "prettier \"src/**/*.mjs\" --write",
     "test": "echo \"Warn: no test specified\" && exit 0",
     "build": "node --experimental-modules src",
-    "postversion": "git push --follow-tags && conventional-github-releaser -p atom -r 0"
+    "postversion": "git push --follow-tags && conventional-github-releaser -p atom"
   },
   "devDependencies": {
     "abigail": "^1.9.5",
