@@ -1,3 +1,13 @@
+- name: Lv50 ジェイド
+  name_en: Lvl 50 Jade
+  image: 'https://pbs.twimg.com/media/DmeNkw5U8AMLHrV.jpg'
+  element: Water
+  limit: 2018-09-09,2018-09-15
+- name: Lv30 フェンリル
+  name_en: Lvl 30 Fenrir
+  image: 'https://pbs.twimg.com/media/DmeNigwUUAIQnou.jpg'
+  element: Water
+  limit: 2018-09-09,2018-09-15
 - name: Lv100 ショウ
   name_en: Lvl 100 Sho
   image: 'https://pbs.twimg.com/media/DmI7nx5V4AEBLAz.jpg'
