@@ -1,0 +1,20 @@
+- id: '3040182000'
+  char_id: ''
+  name: フーちゃん
+  name_en: Freezie
+  name_wiki: Freezie
+  rarity: SSR
+  element: Dark
+  specialty: Gun
+  race: Erune
+  style: Special
+- id: '3030252000'
+  char_id: '1027'
+  name: チーム・ローアイン
+  name_en: The Lowain Bros
+  name_wiki: The Lowain Bros
+  rarity: SR
+  element: Earth
+  specialty: Dagger,Sabre
+  race: Erune
+  style: Special
