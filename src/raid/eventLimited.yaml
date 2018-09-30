@@ -1,3 +1,18 @@
+- name: Lv100 坑道用大型掘削機
+  name_en: Lvl 100 Heavy-Duty Mining Excavator
+  image: 'http://game-a1.granbluefantasy.jp/assets/img/sp/assets/summon/qm/treasureraid073_high.png'
+  element: Earth
+  limit: 2018-09-30,2018-10-08
+- name: Lv50 坑道用大型掘削機
+  name_en: Lvl 50 Heavy-Duty Mining Excavator
+  image: 'http://game-a1.granbluefantasy.jp/assets/img/sp/assets/summon/qm/treasureraid073_ex.png'
+  element: Earth
+  limit: 2018-09-30,2018-10-08
+- name: Lv30 ひねた目つきの男
+  name_en: Lvl 30 Cockeyed Man
+  image: 'http://game-a1.granbluefantasy.jp/assets/img/sp/assets/summon/qm/treasureraid073_vhard.png'
+  element: Earth
+  limit: 2018-09-30,2018-10-08
 - name: Lv50 ジェイド
   name_en: Lvl 50 Jade
   image: 'https://pbs.twimg.com/media/DmeNkw5U8AMLHrV.jpg'
