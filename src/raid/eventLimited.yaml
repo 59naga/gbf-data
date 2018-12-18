@@ -1,16 +1,96 @@
+- name: Lv60 ヤマネコ
+  name_en: Lvl 60 Voracicat
+  image: https://pbs.twimg.com/media/DuWjGxVVsAEINt1.jpg
+  element: Dark
+  limit: 2018-12-09,2018-12-21
+- name: Lv50 奇妙なネコ
+  name_en: Lvl 50 Eerie Cat
+  image: https://pbs.twimg.com/media/DuLdy56W0AAX77_.jpg
+  element: Earth
+  limit: 2018-12-09,2018-12-21
+- name: Lv30 奇妙なネコ
+  name_en: Lvl 30 Eerie Cat
+  image: https://pbs.twimg.com/media/DuLdwkGWsAAnfEH.jpg
+  element: Earth
+  limit: 2018-12-09,2018-12-21
+- name: Lv100 カラクラキル
+  name_en: Lvl 100 Krelkulkil
+  image: https://pbs.twimg.com/media/DtdEHhVV4AE80gu.jpg
+  element: Dark
+  limit: 2018-11-30,2018-12-08
+- name: Lv50 カラクラキル
+  name_en: Lvl 50 Krelkulkil
+  image: https://pbs.twimg.com/media/DtdEFLoUwAAkHHK.jpg
+  element: Dark
+  limit: 2018-11-30,2018-12-08
+- name: Lv30 コルウェル
+  name_en: Lvl 30 Corwell
+  image: https://pbs.twimg.com/media/DtdECfLUcAA0hi_.jpg
+  element: Dark
+  limit: 2018-11-30,2018-12-08
+- name: Lv50 キマイラ・ユリウス
+  name_en: Lvl 50 Chimera Yurius
+  image: https://pbs.twimg.com/media/Drcxp_kVAAA6683.jpg
+  element: Dark
+  limit: 2018-11-09,2018-11-15
+- name: Lv30 星の眼
+  name_en: Lvl 30 Celestial Eye
+  image: https://pbs.twimg.com/media/Drcxm79UwAEVj_0.jpg
+  element: Dark
+  limit: 2018-11-09,2018-11-15
+- name: ガラルドーザＨＬ
+  name_en: Lvl 100 Gallardoza
+  image: https://pbs.twimg.com/media/Dq9sauJVYAAxHP3.jpg
+  element: Fire
+  limit: 2018-10-31,2018-11-09
+- name: Lv50 ガラルドーザ
+  name_en: Lvl 50 Gallardoza
+  image: https://pbs.twimg.com/media/Dq9sYB9VsAEsrdJ.jpg
+  element: Fire
+  limit: 2018-10-31,2018-11-09
+- name: Lv30 魔鯛
+  name_en: Lvl 30 Demonbream
+  image: https://pbs.twimg.com/media/Dq9sVMBUUAAmb3n.jpg
+  element: Fire
+  limit: 2018-10-31,2018-11-09
+- name: Lv50 ボーンドラゴン
+  name_en: Lvl 50 Bone Dragon
+  image: https://pbs.twimg.com/media/DqPT_e6U8AEc7m0.jpg
+  element: Earth
+  limit: 2018-10-24,2018-10-30
+- name: Lv30 ナーゲルヴォルフ
+  name_en: Lvl 30 Nagelwolf
+  image: https://pbs.twimg.com/media/DqPT9ALVYAAZjRc.jpg
+  element: Earth
+  limit: 2018-10-24,2018-10-30
+- name: Lv60 捨て身のピーサード
+  name_en: Lvl 60 Desperate Pisard
+  image: https://pbs.twimg.com/media/DqF87tQVsAABXyE.jpg
+  element: Dark
+  limit: 2018-10-14,2018-10-26
+- name: Lv50 ピーサード
+  name_en: Lvl 50 Pisard
+  image: https://pbs.twimg.com/media/DprDm33U4AEBNo1.jpg
+  element: Dark
+  limit: 2018-10-14,2018-10-26
+- name: Lv30 ピーサード
+  name_en: Lvl 30 Pisard
+  image: https://pbs.twimg.com/media/DprDp0QVsAIhCpU.jpg
+  element: Dark
+  limit: 2018-10-14,2018-10-26
 - name: Lv100 坑道用大型掘削機
   name_en: Lvl 100 Heavy-Duty Mining Excavator
-  image: 'http://game-a1.granbluefantasy.jp/assets/img/sp/assets/summon/qm/treasureraid073_high.png'
+  image: 'https://pbs.twimg.com/media/DojC4eLUcAAwZeI.jpg'
   element: Earth
   limit: 2018-09-30,2018-10-08
 - name: Lv50 坑道用大型掘削機
   name_en: Lvl 50 Heavy-Duty Mining Excavator
-  image: 'http://game-a1.granbluefantasy.jp/assets/img/sp/assets/summon/qm/treasureraid073_ex.png'
+  image: 'https://pbs.twimg.com/media/DojC1_gU4AAsR-6.jpg'
   element: Earth
   limit: 2018-09-30,2018-10-08
 - name: Lv30 ひねた目つきの男
   name_en: Lvl 30 Cockeyed Man
-  image: 'http://game-a1.granbluefantasy.jp/assets/img/sp/assets/summon/qm/treasureraid073_vhard.png'
+  image: 'https://pbs.twimg.com/media/DojCxDGU0AAQVFf.jpg'
   element: Earth
   limit: 2018-09-30,2018-10-08
 - name: Lv50 ジェイド

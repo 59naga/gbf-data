@@ -1,3 +1,33 @@
+- name: Lv100 フレイ
+  name_en: Lvl 100 Freyr
+  image: https://pbs.twimg.com/media/DsGo2xcUcAAhgUZ.jpg
+  element: Wind
+  limit: 2018-11-16,2018-11-23
+- name: Lv95 フレイ
+  name_en: Lvl 95 Freyr
+  image: https://pbs.twimg.com/media/DsGoznBVAAAJzqa.jpg
+  element: Wind
+  limit: 2018-11-16,2018-11-23
+- name: Lv90 フレイ
+  name_en: Lvl 90 Freyr
+  image: https://pbs.twimg.com/media/DsGoxCTU0AARQuC.jpg
+  element: Wind
+  limit: 2018-11-16,2018-11-23
+- name: Lv75 エメラルドホーン
+  name_en: Lvl 75 Viridian Horn
+  image: 'https://pbs.twimg.com/media/DT4ecd_VQAA5HIb.jpg'
+  element: Wind
+  limit: 2018-11-16,2018-11-23
+- name: Lv60 グガランナ
+  name_en: Lvl 60 Gugalanna
+  image: 'https://pbs.twimg.com/media/DT4eYVFU8AAAigm.jpg'
+  element: Wind
+  limit: 2018-11-16,2018-11-23
+- name: Lv50 グガランナ
+  name_en: Lvl 50 Gugalanna
+  image: 'https://pbs.twimg.com/media/DsGogpbU4AEUqgD.jpg'
+  element: Wind
+  limit: 2018-11-16,2018-11-23
 - name: Lv100 ザオシェン
   name_en: Lvl 100 Zaoshen
   image: 'https://pbs.twimg.com/media/Dlk8mosUYAA9Xa7.jpg'
@@ -80,10 +110,6 @@
   name_en: Lvl 100 Typhon
   image: 'https://pbs.twimg.com/media/DbgtT7uU8AA-ZGy.jpg'
   element: Dark
-- name: Lv60 グガランナ
-  name_en: Lvl 60 Gugalanna
-  image: 'https://pbs.twimg.com/media/DT4eYVFU8AAAigm.jpg'
-  element: Wind
 - name: Lv60 アウズンブラ
   name_en: Lvl 60 Audumbla
   image: 'https://pbs.twimg.com/media/CjLxVEtUkAAJCKK.jpg'
@@ -92,10 +118,6 @@
   name_en: Lvl 60 Cocoa Creepy
   image: ''
   element: Light
-- name: Lv75 エメラルドホーン
-  name_en: Lvl 75 Viridian Horn
-  image: 'https://pbs.twimg.com/media/DT4ecd_VQAA5HIb.jpg'
-  element: Wind
 - name: Lv75 ビザールビースト
   name_en: Lvl 75 Aberration
   image: 'https://pbs.twimg.com/media/CjLxc3FUkAAqOiJ.jpg'
