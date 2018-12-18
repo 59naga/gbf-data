@@ -1,0 +1,30 @@
+- id: '3040192000'
+  char_id: ''
+  name: アグロヴァル
+  name_en: Aglovale
+  name_wiki: Aglovale
+  rarity: SSR
+  element: Water
+  specialty: Sabre
+  race: Human
+  style: Attack
+- id: '3040191000'
+  char_id: '3020,2042'
+  name: 白竜の双騎士 ランスロット＆ヴェイン
+  name_en: Lancelot and Vane
+  name_wiki: Lancelot and Vane
+  rarity: SSR
+  element: Fire
+  specialty: Sabre,Spear
+  race: Human
+  style: Attack
+- id: '3030255000'
+  char_id: '2137'
+  name: ひよこ班 アーサー&モルドレッド
+  name_en: Arthur and Mordred
+  name_wiki: Arthur and Mordred
+  rarity: SR
+  element: Wind
+  specialty: Sabre
+  race: Human
+  style: Balanced

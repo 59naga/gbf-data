@@ -1,0 +1,30 @@
+- id: '3040199000'
+  char_id: '4192'
+  name: ユリウス
+  name_en: Yurius
+  name_wiki: Yurius
+  rarity: SSR
+  element: Wind
+  specialty: Sabre,Staff
+  race: Human
+  style: Special
+- id: '3040193000'
+  char_id: '2121'
+  name: レヴィオン姉妹 マイム＆ミイム＆メイム
+  name_en: Levin Sisters
+  name_wiki: Levin Sisters
+  rarity: SSR
+  element: Light
+  specialty: Sabre,Malee
+  race: Human
+  style: Special
+- id: '3030256000'
+  char_id: '1049'
+  name: ロジーヌ
+  name_en: Rosine
+  name_wiki: Rosine (SR)
+  rarity: SR
+  element: Fire
+  specialty: Gun
+  race: Human
+  style: Heal

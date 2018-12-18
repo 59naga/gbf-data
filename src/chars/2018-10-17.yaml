@@ -1,0 +1,30 @@
+- id: '3040190000'
+  char_id: ''
+  name: エウロペ
+  name_en: Europa
+  name_wiki: Europa
+  rarity: SSR
+  element: Water
+  specialty: Melee
+  race: Primal
+  style: Heal
+- id: '3040189000'
+  char_id: '3005'
+  name: レディ・グレイ
+  name_en: Lady Grey
+  name_wiki: Lady Grey (Halloween)
+  rarity: SSR
+  element: Dark
+  specialty: Spear,Melee
+  race: Human
+  style: Special
+- id: '3030254000'
+  char_id: '1020'
+  name: フェザー
+  name_en: Feather
+  name_wiki: Feather (Halloween)
+  rarity: SR
+  element: Dark
+  specialty: Male
+  race: Human
+  style: Attack
