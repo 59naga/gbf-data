@@ -1,3 +1,18 @@
+- name: Lv100 ヴァーサタイル
+  name_en: Lvl 100 Versatile
+  image: https://pbs.twimg.com/media/Dvt8lmoUwAALPRv.jpg
+  element: Light
+  limit: 2018-12-31,2019-01-09
+- name: Lv50 ヴァーサタイル
+  name_en:  Lvl 50 Versatile
+  image: https://pbs.twimg.com/media/Dvt8ZWdU8AAAzfy.jpg
+  element: Light
+  limit: 2018-12-31,2019-01-09
+- name: Lv30 セスラカ
+  name_en: Lvl 30 Pyet-A
+  image: https://pbs.twimg.com/media/Dvt8IONV4AAxFAf.jpg
+  element: Light
+  limit: 2018-12-31,2019-01-09
 - name: Lv60 ヤマネコ
   name_en: Lvl 60 Voracicat
   image: https://pbs.twimg.com/media/DuWjGxVVsAEINt1.jpg
