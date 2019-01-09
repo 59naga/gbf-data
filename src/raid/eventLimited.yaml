@@ -1,3 +1,14 @@
+- name: Lv50 メカサイコヴィーラ
+  name_en:  Lvl 50 Psycho Vira
+  image: https://pbs.twimg.com/media/DwX01dtU0AANE9K.jpg
+  element: Wind
+  limit: 2019-01-09,2019-01-15
+- name: Lv30 フーちゃん
+  name_en: Lvl 30 Freezie
+  image: https://pbs.twimg.com/media/DwX0y0PU8AA8bt1.jpg
+  element: Wind
+  limit: 2019-01-09,2019-01-15
+
 - name: Lv100 ヴァーサタイル
   name_en: Lvl 100 Versatile
   image: https://pbs.twimg.com/media/Dvt8lmoUwAALPRv.jpg
