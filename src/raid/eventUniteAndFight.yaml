@@ -1,3 +1,33 @@
+- name: Lv100 雷霆公
+  name_en: Lvl 100 Vortex Dragon
+  image: https://gbf.wiki/images/8/86/Summon_b_2040004000.png
+  element: Light
+  limit: 2019-01-17,2019-01-23
+- name: Lv95 雷霆公
+  name_en: Lvl 95 Vortex Dragon
+  image: https://gbf.wiki/images/8/86/Summon_b_2040004000.png
+  element: Light
+  limit: 2019-01-17,2019-01-23
+- name: Lv90 雷霆公
+  name_en: Lvl 90 Vortex Dragon
+  image: https://gbf.wiki/images/8/86/Summon_b_2040004000.png
+  element: Light
+  limit: 2019-01-17,2019-01-23
+- name: Lv75 スーペルヒガンテ
+  name_en: Lvl 75 Supergigante
+  image: https://pbs.twimg.com/media/CUnrpFEUcAAsQE6.jpg
+  element: Light
+  limit: 2019-01-17,2019-01-23
+- name: Lv60 マヒシャ
+  name_en: Lvl 60 Mahisha
+  image: https://pbs.twimg.com/media/Cqlr7YjUMAAEEi7.jpg
+  element: Light
+  limit: 2019-01-17,2019-01-23
+- name: Lv50 マヒシャ
+  name_en: Lvl 50 Mahisha
+  image: https://pbs.twimg.com/media/Cqlr4E5VMAAOGqb.jpg
+  element: Light
+  limit: 2019-01-17,2019-01-23
 - name: Lv100 フレイ
   name_en: Lvl 100 Freyr
   image: https://pbs.twimg.com/media/DsGo2xcUcAAhgUZ.jpg
