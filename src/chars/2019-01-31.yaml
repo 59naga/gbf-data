@@ -1,0 +1,40 @@
+- id: '3040204000'
+  char_id: '2092'
+  name: セン
+  name_en: Sen
+  name_wiki: Sen
+  rarity: SSR
+  element: Wind
+  specialty: Melee
+  race: Erune
+  style: Attack
+- id: '3040205000'
+  char_id: '1038'
+  name: ダーント&フライハイト
+  name_en: Dante and Freiheit
+  name_wiki: Dante and Freiheit
+  rarity: SSR
+  element: Earth
+  specialty: Staff,Melee
+  race: Human
+  style: Attack
+- id: '3030264000'
+  char_id: '3052'
+  name: キャサリン
+  name_en: Catherine
+  name_wiki: Catherine
+  rarity: SR
+  element: Earth
+  specialty: Gun
+  race: Erune
+  style: Special
+- id: '3020072000'
+  char_id: ''
+  name: 猫
+  name_en: Young Cat
+  name_wiki: Young Cat
+  rarity: R
+  element: Any
+  specialty: Melee
+  race: Unknown
+  style: Special
