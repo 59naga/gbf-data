@@ -48,16 +48,6 @@
   specialty: Melee
   race: Erune
   style: Attack
-- id: '3040160000'
-  char_id: ''
-  name: ニーア
-  name_en: Nier
-  name_wiki: Nier
-  rarity: SSR
-  element: Water
-  specialty: Staff
-  race: Draph
-  style: Balanced
 - id: '3040165000'
   char_id: ''
   name: ロベリア
