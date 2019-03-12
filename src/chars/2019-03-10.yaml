@@ -15,9 +15,9 @@
   name_wiki: Caim
   rarity: SSR
   element: Earth
-  specialty: Sabre,Dagger,Spear,Axe,Staff,Gun,Melee,Bow,Harp,Katana
-  race: Human,Erune,Draph,Harvin,Primal
-  style: Special,Attack,Defense,Heal,Balanced
+  specialty: Sabre,Melee
+  race: Human
+  style: Special
 - id: '3040169000'
   char_id: ''
   name: ニーア
@@ -65,7 +65,7 @@
   name_wiki: Geisenborger
   rarity: SSR
   element: Light
-  specialty: Male
+  specialty: Melee
   race: Draph
   style: Attack
 - id: '3040168000'
@@ -97,4 +97,4 @@
   element: Wind
   specialty: Harp
   race: Harvin
-  style: Wind
+  style: Defense
